@@ -1,0 +1,97 @@
+!-------------------------------------------------------------------------------
+! Title: Psyblade's Mini Mobile List
+! Expires: 2 days (update frequency)
+! Version: 1.0
+! Last modified: 29 Oct 2017
+! Homepage: https://raw.githubusercontent.com/psyblade12/mycv/master/Psyblade's%20MiniMobileList.txt
+! Contribute: https://github.com/psyblade12/
+! License: Psyblade
+! Description: Psyblade's Mobile List
+!-------------------------------------------------------------------------------
+
+||188bongda.com/*
+||360game.vn/*
+||*.yomedia.vn/*
+||*.adtima.vn/*
+||*.adtimaserver.vn/*
+||bs.serving-sys.com/*
+||stc-nas.nixcdn.com/v4/ads/*
+||static.hplus.com.vn/themes/front/ads/*
+||*.admicro.vn/*
+||*.blueserving.com/*
+||*.blueseed.tv/*
+||*.anthill.vn/*
+||*.bidswitch.net/*
+||*.ad-score.com/*
+||facebook.com/audiencenetwork/$third-party
+||facebook.com^*/instream/vast.xml?
+
+ce.linedict.com##.downapp_area
+
+m.blogtruyen.com##input[style="position: fixed;width: 20px;height: 20px; background: #16FF16;border: 0px;"]
+m.blogtruyen.com##.qc-inner
+m.blogtruyen.com###qcInnerContentList
+m.blogtruyen.com##.chapter-detail > center
+
+en.miui.com###app
+
+www.lazada.vn###stack-mobile-container
+www.lazada.vn##.smart-banner-1-8__inner
+www.lazada.vn###J_Banner
+
+m.facebook.com###m_newsfeed_stream article[data-ft*="\"ei\":\""]
+m.facebook.com##.aymlCoverFlow
+m.facebook.com##.aymlNewCoverFlow[data-ft*="\"is_sponsored\":\"1\""]
+m.facebook.com##.pyml
+m.facebook.com##.storyStream > ._6t2[data-sigil="marea"]
+m.facebook.com##.storyStream > .fullwidth._539p
+m.facebook.com##.storyStream > article[id^="u_"]._676
+m.facebook.com##.storyStream > article[id^="u_"].storyAggregation
+
+m.youtube.com##a[onclick*="\"ping_url\":\"http://www.google.com/aclk?"]
+m.youtube.com##a[onclick^="return koya.onEvent(arguments[0]||window.event,'"]
+m.youtube.com##a[onclick^="return koya.onEvent(arguments[0]||window.event,'"] + div
+
+hinative.com###js-recommendation_of_app
+hinative.com##.sound.on_content.banner_premium
+
+www.nhaccuatui.com##.bannerAdv
+www.nhaccuatui.com###i_box_popup
+
+lhscans.com##.float-ck
+lhscans.com##.quang-cao
+
+truyentranhlh.com##.float-ck
+truyentranhlh.com##.quang-cao
+
+truyen1.net###cBalloonMobi
+
+m.gsmarena.com##.adv-mid
+
+m.baomoi.com###BaoMoi_Mobile_PrBox
+m.baomoi.com##.is-pr
+m.baomoi.com##.robots-nocontent
+m.baomoi.com###wrapperTop:after
+
+quora.com##.ContentPageFeed
+quora.com##.Standard2ColLayout:after
+
+tinhte.vn##.adWidget-gpt
+
+oxfordlearnersdictionaries.com###ad_topslot_a
+oxfordlearnersdictionaries.com###ad_houseslot1_a
+oxfordlearnersdictionaries.com###ad_btmslot_b
+
+vozforums.com##.middleads
+vozforums.com##[id*="div-gpt-ad"]
+vozforums.com##td > div > div > div > div:has(#div-gpt-ad-reply)
+vozforums.com##div[style="text-align: center; padding-bottom: 10px; margin: 0px auto; width: 728px; height: 90px;"]
+vozforums.com##div[style="text-align: center; padding-bottom: 10px; margin: 0 auto; width:728px; height:90px;"]
+
+bilutv.com###adsmessage
+
+hplus.com.vn###slider
+hplus.com.vn##img[src*="http://img.hplus.com.vn/100x80/poster/"]
+hplus.com.vn###bottombar
+
+m.baomoi.com##.anchor.download-app

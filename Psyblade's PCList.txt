@@ -1,0 +1,153 @@
+!-------------------------------------------------------------------------------
+! Title: Psyblade's List
+! Expires: 2 days (update frequency)
+! Version: 1.0
+! Last modified: 29 Oct 2017
+! Homepage: https://github.com/psyblade12/mycv/blob/master/Psyblade's%20List
+! Contribute: https://github.com/psyblade12/
+! License: Psyblade
+! Description: Psyblade's List
+!-------------------------------------------------------------------------------
+
+blogtruyen.com##.al-c.BT-Ads > center
+
+blogtruyen.com##body > a[href="https://goo.gl/D6w4JP"] > div
+blogtruyen.com##body > a[href="https://goo.gl/upFYXe"] > div
+blogtruyen.com##.al-c.BT-Ads
+blogtruyen.com##.qc-inner
+blogtruyen.com###mota
+blogtruyen.com##div:nth-of-type(5)
+
+www.facebook.com##.egoOrganicColumn.s_1o8820bhj3.pagelet.ego_column > ._1-ia > ._4-u8._20os._2tyk._1-ib._4-u2
+www.facebook.com##.egoOrganicColumn.ego_column.s_1o8820bhj3._5qrt.pagelet > .wrapper > .inner
+www.facebook.com##.home_right_column
+
+hinative.com##.sidebar
+
+||bilutv.com/uploads/star/2xshop.gif$image
+bilutv.com###balloon_left_1
+bilutv.com##.float-ads-left.float-ads
+bilutv.com##.ads
+bilutv.com##.ants-full-banner-image.ants-full-banner.ants-zone
+bilutv.com###ants-zone-584102651-html5
+bilutv.com##.fb-page
+
+www.youtube.com###player-ads
+www.youtube.com##.extra-padding.adDisplay
+
+tuoitre.vn##.clearfix.bar-new
+
+readcomiconline.to###fl-ads
+
+anime47.com##center
+anime47.com###sidebar > a[href*="goo.gl"]
+anime47.com##.ad-top-300-250
+
+truyentranhlh.com##.quang-cao
+truyentranhlh.com##.float-ck
+
+lhscans.com##.float-ck
+lhscans.com## .quang-cao
+
+www.nhaccuatui.com##[id*="Popup"]
+www.nhaccuatui.com##[id*="_R"]
+www.nhaccuatui.com###PL_Comment
+www.nhaccuatui.com##[class*="ads"]
+www.nhaccuatui.com##.wpage
+www.nhaccuatui.com###HR01
+www.nhaccuatui.com###S_Popup
+www.nhaccuatui.com###ifS_Inner485-shrink
+
+||znews-static.zadn.vn/banner/ads/*$image
+news.zing.vn###highlight
+news.zing.vn###advArticleBottom
+news.zing.vn##.size_masthead.banner
+news.zing.vn###advHalfPage
+news.zing.vn###site-header
+news.zing.vn##[id*="advR"]
+
+thanhnien.vn##[id*="adsctl00_main"]
+
+vtv.vn##.bg-dark.knswli-object-wrapper > .clearfix
+
+www.the-qrcode-generator.com###visual_qr
+www.livescore.com###b2_61
+
+www.livescore.com##.hidden-xs.bb:nth-of-type(4)
+
+||http://get.sbro.me/*
+||http://ips.sbro.me/*
+
+truyentranh8.net###quangcaotop2
+truyentranh8.net##.alert.text-center.center-block.tt8quangcao
+truyentranh8.net###hide_float
+truyentranh8.net##.tt8quangcao.hideTablet.float-ck2
+
+hamtruyen.com###middle > .container
+hamtruyen.com##.thongbao_theochuong.alert-dismissible.alert-info.alert
+
+thiendia.com##.my_responsive_ads
+
+games.cdn.famobi.com###fg-root
+
+||*.yomedia.vn/*
+||*.adtima.vn
+||*.adtimaserver.vn
+||bs.serving-sys.com/*
+||stc-nas.nixcdn.com/v4/ads/*
+||static.hplus.com.vn/themes/front/ads/*
+||*.admicro.vn/*
+||*.blueserving.com/*
+||*.blueseed.tv/*
+||*.anthill.vn/*
+||*.bidswitch.net/*
+||*.ad-score.com/*
+
+animetvn.tv##body > .gnarty-offads
+
+123doc.org##.ads.page-content
+
+bulbapedia.bulbagarden.net###upper-article
+bulbapedia.bulbagarden.net###netnaut
+
+truyen1.net##.float-ck
+truyen1.net##.social-box
+
+uptruyen.com###qc-7
+
+baomoi.com###BaoMoi_Top
+baomoi.com##.fyi--group
+
+tv.zing.vn##.non-linear-ad
+
+bilutv.com##[id*="ads_zone"]
+bilutv.com##.player_pause_ads
+
+www.gsmarena.com##.banner-mpu.adv
+www.gsmarena.com###topAdv
+
+developers.whatismybrowser.com##.funholderleaderboard728
+
+quora.com##.ContentPageFeed
+quora.com##.Standard2ColLayout:after
+
+tructiephd.com##.hidden-sm.col-md-9
+tructiephd.com###sl2
+tructiephd.com###AsNzBvuciwpBOYg
+tructiephd.com## .ads_player
+tructiephd.com##.hidden-sm.hidden-xs.clearfix.col-md-4 > div:nth-of-type(6)
+
+vietnamnet.vn##.Ads-Top
+
+danviet.vn###ADS_9_15s_0_0
+
+facebook.com###pagelet_ego_pane
+
+anime47.com##.ad-top-300-250
+
+www.foody.vn##[id*="banner"]
+www.foody.vn##.banner-header-top.foody-banner.foody-wapper
+
+vn.answers.yahoo.com###ya-center-two-col
+
+www.oldpcgaming.net##center
