@@ -1,5 +1,5 @@
 !-------------------------------------------------------------------------------
-! Title: Psyblade's List
+! Title: Psyblade's PC List
 ! Expires: 2 days (update frequency)
 ! Version: 1.0
 ! Last modified: 29 Oct 2017
