@@ -96,3 +96,6 @@ m.baomoi.com##.anchor.download-app
 tomshardware.com##.docked-buttons
 
 vforum.vn##.adsbygoogle
+
+www.nhaccuatui.com###i_box_popup
+www.nhaccuatui.com##.bannerAdv > div:nth-of-type(1)
