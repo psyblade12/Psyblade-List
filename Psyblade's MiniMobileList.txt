@@ -55,9 +55,6 @@ m.youtube.com##a[onclick^="return koya.onEvent(arguments[0]||window.event,'"] + 
 hinative.com###js-recommendation_of_app
 hinative.com##.sound.on_content.banner_premium
 
-www.nhaccuatui.com##.bannerAdv
-www.nhaccuatui.com###i_box_popup
-
 lhscans.com##.float-ck
 lhscans.com##.quang-cao
 
@@ -95,3 +92,7 @@ hplus.com.vn##img[src*="http://img.hplus.com.vn/100x80/poster/"]
 hplus.com.vn###bottombar
 
 m.baomoi.com##.anchor.download-app
+
+tomshardware.com##.docked-buttons
+
+vforum.vn##.adsbygoogle
