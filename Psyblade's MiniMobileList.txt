@@ -9,35 +9,58 @@
 ! Description: Psyblade's Mobile List
 !-------------------------------------------------------------------------------
 
+!-----------------------------------Ad Server Rules-----------------------------
+
 ||188bongda.com/*
 ||360game.vn/*
-||*.yomedia.vn/*
+||*.ad-score.com/*
+||*.admicro.vn/*
 ||*.adtima.vn/*
 ||*.adtimaserver.vn/*
-||bs.serving-sys.com/*
-||stc-nas.nixcdn.com/v4/ads/*
-||static.hplus.com.vn/themes/front/ads/*
-||*.admicro.vn/*
+||*.anthill.vn/*
 ||*.blueserving.com/*
 ||*.blueseed.tv/*
-||*.anthill.vn/*
+||bs.serving-sys.com/*
 ||*.bidswitch.net/*
-||*.ad-score.com/*
 ||facebook.com/audiencenetwork/$third-party
 ||facebook.com^*/instream/vast.xml?
+||stc-nas.nixcdn.com/v4/ads/*
+||static.hplus.com.vn/themes/front/ads/*
+||*.yomedia.vn/*
+
+!-------------------------------------------------------------------------------
+
+!-------------------------------Website Content Rules---------------------------
+
+bilutv.com###adsmessage
 
 ce.linedict.com##.downapp_area
+en.miui.com###app
+
+hinative.com###js-recommendation_of_app
+hinative.com##.sound.on_content.banner_premium
+
+lazada.vn###stack-mobile-container
+lazada.vn##.smart-banner-1-8__inner
+lazada.vn###J_Banner
+
+lhscans.com##.float-ck
+lhscans.com##.quang-cao
+
+hplus.com.vn###slider
+hplus.com.vn##img[src*="http://img.hplus.com.vn/100x80/poster/"]
+hplus.com.vn###bottombar
+
+m.baomoi.com###BaoMoi_Mobile_PrBox
+m.baomoi.com##.is-pr
+m.baomoi.com##.robots-nocontent
+m.baomoi.com###wrapperTop:after
+m.baomoi.com##.anchor.download-app
 
 m.blogtruyen.com##input[style="position: fixed;width: 20px;height: 20px; background: #16FF16;border: 0px;"]
 m.blogtruyen.com##.qc-inner
 m.blogtruyen.com###qcInnerContentList
 m.blogtruyen.com##.chapter-detail > center
-
-en.miui.com###app
-
-www.lazada.vn###stack-mobile-container
-www.lazada.vn##.smart-banner-1-8__inner
-www.lazada.vn###J_Banner
 
 m.facebook.com###m_newsfeed_stream article[data-ft*="\"ei\":\""]
 m.facebook.com##.aymlCoverFlow
@@ -48,36 +71,32 @@ m.facebook.com##.storyStream > .fullwidth._539p
 m.facebook.com##.storyStream > article[id^="u_"]._676
 m.facebook.com##.storyStream > article[id^="u_"].storyAggregation
 
+m.gsmarena.com##.adv-mid
+
 m.youtube.com##a[onclick*="\"ping_url\":\"http://www.google.com/aclk?"]
 m.youtube.com##a[onclick^="return koya.onEvent(arguments[0]||window.event,'"]
 m.youtube.com##a[onclick^="return koya.onEvent(arguments[0]||window.event,'"] + div
 
-hinative.com###js-recommendation_of_app
-hinative.com##.sound.on_content.banner_premium
+nhaccuatui.com###i_box_popup
+nhaccuatui.com##.bannerAdv > div:nth-of-type(1)
 
-lhscans.com##.float-ck
-lhscans.com##.quang-cao
-
-truyentranhlh.com##.float-ck
-truyentranhlh.com##.quang-cao
-
-truyen1.net###cBalloonMobi
-
-m.gsmarena.com##.adv-mid
-
-m.baomoi.com###BaoMoi_Mobile_PrBox
-m.baomoi.com##.is-pr
-m.baomoi.com##.robots-nocontent
-m.baomoi.com###wrapperTop:after
+oxfordlearnersdictionaries.com###ad_topslot_a
+oxfordlearnersdictionaries.com###ad_houseslot1_a
+oxfordlearnersdictionaries.com###ad_btmslot_b
 
 quora.com##.ContentPageFeed
 quora.com##.Standard2ColLayout:after
 
 tinhte.vn##.adWidget-gpt
 
-oxfordlearnersdictionaries.com###ad_topslot_a
-oxfordlearnersdictionaries.com###ad_houseslot1_a
-oxfordlearnersdictionaries.com###ad_btmslot_b
+tomshardware.com##.docked-buttons
+
+truyen1.net###cBalloonMobi
+
+truyentranhlh.com##.float-ck
+truyentranhlh.com##.quang-cao
+
+vforum.vn##.adsbygoogle
 
 vozforums.com##.middleads
 vozforums.com##[id*="div-gpt-ad"]
@@ -85,17 +104,4 @@ vozforums.com##td > div > div > div > div:has(#div-gpt-ad-reply)
 vozforums.com##div[style="text-align: center; padding-bottom: 10px; margin: 0px auto; width: 728px; height: 90px;"]
 vozforums.com##div[style="text-align: center; padding-bottom: 10px; margin: 0 auto; width:728px; height:90px;"]
 
-bilutv.com###adsmessage
-
-hplus.com.vn###slider
-hplus.com.vn##img[src*="http://img.hplus.com.vn/100x80/poster/"]
-hplus.com.vn###bottombar
-
-m.baomoi.com##.anchor.download-app
-
-tomshardware.com##.docked-buttons
-
-vforum.vn##.adsbygoogle
-
-www.nhaccuatui.com###i_box_popup
-www.nhaccuatui.com##.bannerAdv > div:nth-of-type(1)
+!-------------------------------------------------------------------------------
