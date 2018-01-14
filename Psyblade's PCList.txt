@@ -130,6 +130,7 @@ developers.whatismybrowser.com##.funholderleaderboard728
 
 quora.com##.ContentPageFeed
 quora.com##.Standard2ColLayout:after
+quora.com##[class*="answer_area_content"] > div:has-text(Promoted by)
 
 tructiephd.com##.hidden-sm.col-md-9
 tructiephd.com###sl2
