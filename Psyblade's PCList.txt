@@ -68,6 +68,7 @@ facebook.com##.egoOrganicColumn.s_1o8820bhj3.pagelet.ego_column > ._1-ia > ._4-u
 facebook.com##.egoOrganicColumn.ego_column.s_1o8820bhj3._5qrt.pagelet > .wrapper > .inner
 facebook.com##.home_right_column
 facebook.com###pagelet_ego_pane
+facebook.com##.rhcFooter
 
 foody.vn##[id*="banner"]
 foody.vn##.banner-header-top.foody-banner.foody-wapper
@@ -88,6 +89,14 @@ lhscans.com## .quang-cao
 livescore.com###b2_61
 livescore.com##.hidden-xs.bb:nth-of-type(4)
 
+||znews-static.zadn.vn/banner/ads/*$image
+news.zing.vn###highlight
+news.zing.vn###advArticleBottom
+news.zing.vn##.size_masthead.banner
+news.zing.vn###advHalfPage
+news.zing.vn###site-header
+news.zing.vn##[id*="advR"]
+
 nhaccuatui.com##[id*="Popup"]
 nhaccuatui.com##[id*="_R"]
 nhaccuatui.com###PL_Comment
@@ -97,13 +106,7 @@ nhaccuatui.com###HR01
 nhaccuatui.com###S_Popup
 nhaccuatui.com###ifS_Inner485-shrink
 
-||znews-static.zadn.vn/banner/ads/*$image
-news.zing.vn###highlight
-news.zing.vn###advArticleBottom
-news.zing.vn##.size_masthead.banner
-news.zing.vn###advHalfPage
-news.zing.vn###site-header
-news.zing.vn##[id*="advR"]
+nld.com.vn##.bordertopmenuv4
 
 oldpcgaming.net##center
 
