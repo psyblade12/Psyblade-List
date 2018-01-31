@@ -36,6 +36,8 @@ bilutv.com###adsmessage
 
 ce.linedict.com##.downapp_area
 
+dictionary.goo.ne.jp##div:has([id^="yads_"])
+
 en.miui.com###app
 
 hinative.com###js-recommendation_of_app
