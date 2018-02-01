@@ -80,6 +80,8 @@ m.youtube.com##a[onclick*="\"ping_url\":\"http://www.google.com/aclk?"]
 m.youtube.com##a[onclick^="return koya.onEvent(arguments[0]||window.event,'"]
 m.youtube.com##a[onclick^="return koya.onEvent(arguments[0]||window.event,'"] + div
 
+m.vnreview.vn##[id*="div-gpt-ad"]
+
 nhaccuatui.com###i_box_popup
 nhaccuatui.com##.bannerAdv > div:nth-of-type(1)
 
