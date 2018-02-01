@@ -81,6 +81,7 @@ m.youtube.com##a[onclick^="return koya.onEvent(arguments[0]||window.event,'"]
 m.youtube.com##a[onclick^="return koya.onEvent(arguments[0]||window.event,'"] + div
 
 m.vnreview.vn##[id*="div-gpt-ad"]
+m.vnreview.vn##.accessTrade
 
 nhaccuatui.com###i_box_popup
 nhaccuatui.com##.bannerAdv > div:nth-of-type(1)
