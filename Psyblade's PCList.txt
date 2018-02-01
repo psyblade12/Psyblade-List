@@ -62,6 +62,8 @@ bulbapedia.bulbagarden.net###netnaut
 
 danviet.vn##[id*="ADS_"]
 
+dictionary.goo.ne.jp##.adsbygoogle
+
 developers.whatismybrowser.com##.funholderleaderboard728
 
 facebook.com##.egoOrganicColumn.s_1o8820bhj3.pagelet.ego_column > ._1-ia > ._4-u8._20os._2tyk._1-ib._4-u2
