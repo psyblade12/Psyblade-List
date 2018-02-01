@@ -75,6 +75,8 @@ foody.vn##.banner-header-top.foody-banner.foody-wapper
 
 games.cdn.famobi.com###fg-root
 
+greasyfork.org##.ad-content
+
 gsmarena.com##.banner-mpu.adv
 gsmarena.com###topAdv
 
