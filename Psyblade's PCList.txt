@@ -119,6 +119,8 @@ quora.com##.AdBundle
 
 readcomiconline.to###fl-ads
 
+reddit.com##[id*="ad_"]
+
 truyentranhlh.com##.quang-cao
 truyentranhlh.com##.float-ck
 
