@@ -146,6 +146,8 @@ uptruyen.com###qc-7
 
 vietnamnet.vn##.Ads-Top
 
+vnreview.vn###column-11
+
 vtv.vn##.bg-dark.knswli-object-wrapper > .clearfix
 
 vn.answers.yahoo.com###ya-center-two-col
