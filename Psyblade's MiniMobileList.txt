@@ -95,6 +95,9 @@ oxfordlearnersdictionaries.com###ad_btmslot_b
 quora.com##.ContentPageFeed
 quora.com##.Standard2ColLayout:after
 
+thethaovanhoa.vn##.adsbygoogle
+thethaovanhoa.vn###SC_TBlock_364194
+
 tinhte.vn##.adWidget-gpt
 
 tomshardware.com##.docked-buttons
