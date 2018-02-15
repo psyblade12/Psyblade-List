@@ -44,6 +44,7 @@ greasyfork.org##.ad-content
 
 hinative.com###js-recommendation_of_app
 hinative.com##.sound.on_content.banner_premium
+hinative.com##.adsbygoogle
 
 lazada.vn###stack-mobile-container
 lazada.vn##.smart-banner-1-8__inner
