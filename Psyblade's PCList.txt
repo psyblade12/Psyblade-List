@@ -66,6 +66,10 @@ dictionary.goo.ne.jp##.adsbygoogle
 
 developers.whatismybrowser.com##.funholderleaderboard728
 
+ejje.weblio.jp###leadToSpeakingTestIndexBtnWrp
+ejje.weblio.jp###leadToVocabIndexBtnWrp
+ejje.weblio.jp##.free-reg-banner
+
 facebook.com##.egoOrganicColumn.s_1o8820bhj3.pagelet.ego_column > ._1-ia > ._4-u8._20os._2tyk._1-ib._4-u2
 facebook.com##.egoOrganicColumn.ego_column.s_1o8820bhj3._5qrt.pagelet > .wrapper > .inner
 facebook.com##.home_right_column
