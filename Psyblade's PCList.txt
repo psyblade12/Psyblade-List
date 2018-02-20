@@ -66,8 +66,13 @@ dictionary.goo.ne.jp##.adsbygoogle
 
 developers.whatismybrowser.com##.funholderleaderboard728
 
-ejje.weblio.jp###leadToSpeakingTestIndexBtnWrp
-ejje.weblio.jp###leadToVocabIndexBtnWrp
+ejje.weblio.jp###side > .sideBlock:has(.sideAdBunner)
+ejje.weblio.jp##[id*="div-gpt-ad"]
+ejje.weblio.jp###main > .mainBlock:has(.adsbygoogle)
+ejje.weblio.jp###main > .adGH
+ejje.weblio.jp##.free-reg-banner
+ejje.weblio.jp##.kiji > .adsbygoogle
+ejje.weblio.jp##.mainBlock:has(.adGHL)
 
 facebook.com##.egoOrganicColumn.s_1o8820bhj3.pagelet.ego_column > ._1-ia > ._4-u8._20os._2tyk._1-ib._4-u2
 facebook.com##.egoOrganicColumn.ego_column.s_1o8820bhj3._5qrt.pagelet > .wrapper > .inner
