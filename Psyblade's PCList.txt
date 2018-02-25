@@ -164,6 +164,8 @@ vietnamnet.vn##.Ads-Top
 
 vnreview.vn###column-11
 
+*voz.vn/*
+
 vtv.vn##.bg-dark.knswli-object-wrapper > .clearfix
 
 vn.answers.yahoo.com###ya-center-two-col
