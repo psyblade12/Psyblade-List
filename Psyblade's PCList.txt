@@ -124,7 +124,7 @@ nld.com.vn##.bordertopmenuv4
 
 oldpcgaming.net##center
 
-quora.com##[class*="answer_area_content"] > div:has-text(Promoted by)
+quora.com##div[id*="_content_wrapper"]:has(.advertiser_url)
 quora.com##.AdBundle
 
 readcomiconline.to###fl-ads
