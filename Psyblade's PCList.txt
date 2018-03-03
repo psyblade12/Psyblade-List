@@ -85,6 +85,9 @@ facebook.com##.rhcFooter
 foody.vn##[id*="banner"]
 foody.vn##.banner-header-top.foody-banner.foody-wapper
 
+forum.xda-developers.com###purch_Y_L_1_1
+forum.xda-developers.com##.xda-box.postbit-wrapper
+
 games.cdn.famobi.com###fg-root
 
 greasyfork.org##.ad-content
@@ -102,6 +105,8 @@ lhscans.com## .quang-cao
 
 livescore.com###b2_61
 livescore.com##.hidden-xs.bb:nth-of-type(4)
+
+mazii.net##.affilate-screen
 
 ||znews-static.zadn.vn/banner/ads/*$image
 news.zing.vn###highlight
