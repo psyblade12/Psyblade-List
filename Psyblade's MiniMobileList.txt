@@ -118,6 +118,6 @@ vozforums.com##td > div > div > div > div:has(#div-gpt-ad-reply)
 vozforums.com##div[style="text-align: center; padding-bottom: 10px; margin: 0px auto; width: 728px; height: 90px;"]
 vozforums.com##div[style="text-align: center; padding-bottom: 10px; margin: 0 auto; width:728px; height:90px;"]
 
-*voz.vn/*
+*.voz.vn/*
 
 !-------------------------------------------------------------------------------
