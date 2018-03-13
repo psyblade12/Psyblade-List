@@ -1,2 +1,19 @@
+0.0.0.0 core.adunity.com
+0.0.0.0 cdn.unityads.unity3d.com
+0.0.0.0 admediator.unityads.unity3d.com
+0.0.0.0 adserver.unityads.unity3d.com
+0.0.0.0 auction.unityads.unity3d.com
+0.0.0.0 config.unityads.unity3d.com
+0.0.0.0 webview.unityads.unity3d.com
+
+0.0.0.0 connect.facebook.net
+0.0.0.0 ads.ak.facebook.com
+0.0.0.0 pixel.facebook.com
+
+0.0.0.0 vungle.com
+
+0.0.0.0 adcolony.com
+
+
 118.69.192.81 vozforums.com
 118.69.192.81 www.vozforums.com
