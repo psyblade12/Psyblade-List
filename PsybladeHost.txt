@@ -14,6 +14,47 @@
 
 0.0.0.0 adcolony.com
 
+127.0.0.1 mc.yandex.ru
+127.0.0.1 an.yandex.ru
+
+127.0.0.1 aax-us-east.amazon-adsystem.com
+127.0.0.1 aax-us-west.amazon-adsystem.com
+127.0.0.1 s.amazon-adsystem.com
+
+127.0.0.1 admarvel.s3.amazonaws.com
+127.0.0.1 html5adkit.plusmo.s3.amazonaws.com
+127.0.0.1 inneractive-assets.s3.amazonaws.com
+127.0.0.1 strikeadcdn.s3.amazonaws.com
+
+127.0.0.1 ad-g.doubleclick.net
+127.0.0.1 ad.doubleclick.net
+127.0.0.1 ad.mo.doubleclick.net
+127.0.0.1 doubleclick.net
+127.0.0.1 googleads.g.doubleclick.net
+
+127.0.0.1 pagead.googlesyndication.com
+127.0.0.1 pagead1.googlesyndication.com
+127.0.0.1 pagead2.googlesyndication.com
+
+127.0.0.1 mobileads.msn.com
+
+127.0.0.1 analytics.localytics.com
+
+127.0.0.1 a.medialytics.com
+127.0.0.1 c.medialytics.com
+127.0.0.1 cdn.creative.medialytics.com
+127.0.0.1 p.medialytics.com
+127.0.0.1 px.cdn.creative.medialytics.com
+127.0.0.1 t.medialytics.com
+
+127.0.0.1 google-analytics.com
+127.0.0.1 googlesyndication.com
+
+127.0.0.1 applift.com
+
+127.0.0.1 trackersimulator.org
+127.0.0.1 eviltracker.net
+127.0.0.1 do-not-tracker.org
 
 118.69.192.81 vozforums.com
 118.69.192.81 www.vozforums.com
