@@ -1,3 +1,4 @@
+# [Unity Ads]
 0.0.0.0 core.adunity.com
 0.0.0.0 cdn.unityads.unity3d.com
 0.0.0.0 admediator.unityads.unity3d.com
@@ -6,26 +7,32 @@
 0.0.0.0 config.unityads.unity3d.com
 0.0.0.0 webview.unityads.unity3d.com
 
-0.0.0.0 connect.facebook.net
+# [Facebook Ads]
 0.0.0.0 ads.ak.facebook.com
 0.0.0.0 pixel.facebook.com
 
+# [Vungle Ads]
 0.0.0.0 vungle.com
 
+# [AdColony Ads]
 0.0.0.0 adcolony.com
 
+# [Yandex Ads]
 127.0.0.1 mc.yandex.ru
 127.0.0.1 an.yandex.ru
 
+# [Amazon Ads]
 127.0.0.1 aax-us-east.amazon-adsystem.com
 127.0.0.1 aax-us-west.amazon-adsystem.com
 127.0.0.1 s.amazon-adsystem.com
 
+# [AWS Ads]
 127.0.0.1 admarvel.s3.amazonaws.com
 127.0.0.1 html5adkit.plusmo.s3.amazonaws.com
 127.0.0.1 inneractive-assets.s3.amazonaws.com
 127.0.0.1 strikeadcdn.s3.amazonaws.com
 
+# [Double Click Ads]
 127.0.0.1 ad-g.doubleclick.net
 127.0.0.1 ad.doubleclick.net
 127.0.0.1 ad.mo.doubleclick.net
@@ -36,6 +43,7 @@
 127.0.0.1 pagead1.googlesyndication.com
 127.0.0.1 pagead2.googlesyndication.com
 
+# [Microsoft Ads]
 127.0.0.1 mobileads.msn.com
 
 127.0.0.1 analytics.localytics.com
@@ -47,6 +55,7 @@
 127.0.0.1 px.cdn.creative.medialytics.com
 127.0.0.1 t.medialytics.com
 
+# [Google Analytic Ads]
 127.0.0.1 google-analytics.com
 127.0.0.1 googlesyndication.com
 
