@@ -137,6 +137,8 @@ readcomiconline.to###fl-ads
 
 reddit.com##[id*="ad_"]
 
+speedtest.net##.container-leaderboard.a-container
+
 truyentranhlh.com##.quang-cao
 truyentranhlh.com##.float-ck
 
@@ -175,6 +177,8 @@ vnreview.vn###column-11
 vtv.vn##.bg-dark.knswli-object-wrapper > .clearfix
 
 vn.answers.yahoo.com###ya-center-two-col
+
+webtretho.com###content_video
 
 youtube.com###player-ads
 youtube.com##.extra-padding.adDisplay
