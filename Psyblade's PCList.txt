@@ -101,6 +101,9 @@ hamtruyen.com##.thongbao_theochuong.alert-dismissible.alert-info.alert
 
 hinative.com##.sidebar
 
+hocvientruyentranh.com###float_left
+hocvientruyentranh.com###float_right
+
 lhscans.com##.float-ck
 lhscans.com## .quang-cao
 
