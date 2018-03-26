@@ -32,6 +32,8 @@
 
 !-------------------------------Website Content Rules---------------------------
 
+.adsbygoogle
+
 bilutv.com###adsmessage
 
 ce.linedict.com##.downapp_area
@@ -44,7 +46,6 @@ greasyfork.org##.ad-content
 
 hinative.com###js-recommendation_of_app
 hinative.com##.sound.on_content.banner_premium
-hinative.com##.adsbygoogle
 
 lazada.vn###stack-mobile-container
 lazada.vn##.smart-banner-1-8__inner
@@ -98,7 +99,6 @@ oxfordlearnersdictionaries.com###ad_btmslot_b
 quora.com##.ContentPageFeed
 quora.com##.Standard2ColLayout:after
 
-thethaovanhoa.vn##.adsbygoogle
 thethaovanhoa.vn###SC_TBlock_364194
 
 tinhte.vn##.adWidget-gpt
@@ -109,8 +109,6 @@ truyen1.net###cBalloonMobi
 
 truyentranhlh.com##.float-ck
 truyentranhlh.com##.quang-cao
-
-vforum.vn##.adsbygoogle
 
 vozforums.com##.middleads
 vozforums.com##[id*="div-gpt-ad"]
