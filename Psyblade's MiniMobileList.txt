@@ -43,6 +43,7 @@ dictionary.goo.ne.jp##div:has([id^="yads_"])
 en.miui.com###app
 
 greasyfork.org##.ad-content
+greasyfork.org##.carbon-ad.ad
 
 hinative.com###js-recommendation_of_app
 hinative.com##.sound.on_content.banner_premium
