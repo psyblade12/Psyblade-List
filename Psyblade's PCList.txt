@@ -175,6 +175,12 @@ vietnamnet.vn##.Ads-Top
 
 vnreview.vn###column-11
 
+vov.vn##.box--sponsor.box
+vov.vn###rightsidebar_top
+vov.vn###rightstickyads
+vov.vn###QCctl00_AdsContentAllPage1
+vov.vn##.clearfix.ads
+
 *.voz.vn/*
 
 vtv.vn##.bg-dark.knswli-object-wrapper > .clearfix
