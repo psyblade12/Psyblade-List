@@ -182,6 +182,7 @@ vov.vn###QCctl00_AdsContentAllPage1
 vov.vn##.clearfix.ads
 
 *.voz.vn/*
+vozforums.com###nvozer-migrate
 
 vtv.vn##.bg-dark.knswli-object-wrapper > .clearfix
 
