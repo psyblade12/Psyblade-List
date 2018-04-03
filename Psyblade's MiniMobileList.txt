@@ -151,9 +151,9 @@ news.zing.vn##[id*="adv"]
 nhaccuatui.com###i_box_popup
 nhaccuatui.com##.bannerAdv > div:nth-of-type(1)
 
-oxfordlearnersdictionaries.com###ad_topslot_a
-oxfordlearnersdictionaries.com###ad_houseslot1_a
-oxfordlearnersdictionaries.com###ad_btmslot_b
+oxfordlearnersdictionaries.com##[id*="ad_btmslot_"]
+oxfordlearnersdictionaries.com##[id*="ad_topslot_"]
+oxfordlearnersdictionaries.com##[id*="ad_houseslot"]
 
 quora.com##.ContentPageFeed
 quora.com##.Standard2ColLayout:after
