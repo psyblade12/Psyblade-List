@@ -133,6 +133,10 @@ nld.com.vn##.bordertopmenuv4
 
 oldpcgaming.net##center
 
+oxfordlearnersdictionaries.com##[id*="ad_btmslot_"]
+oxfordlearnersdictionaries.com##[id*="ad_topslot_"]
+oxfordlearnersdictionaries.com##[id*="ad_houseslot"]
+
 quora.com##div[id*="_content_wrapper"]:has(.advertiser_url)
 quora.com##.AdBundle
 
