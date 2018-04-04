@@ -57,6 +57,7 @@ blogtruyen.com##.al-c.BT-Ads
 blogtruyen.com##.qc-inner
 blogtruyen.com###mota
 blogtruyen.com##div:nth-of-type(5)
+blogtruyen.com##.qc-css
 
 bulbapedia.bulbagarden.net###upper-article
 bulbapedia.bulbagarden.net###netnaut
@@ -155,6 +156,8 @@ thanhnien.vn##[id*="adsctl00_main"]
 the-qrcode-generator.com###visual_qr
 
 thiendia.com##.my_responsive_ads
+
+tiki.vn##.text-center.native-banner
 
 tructiephd.com##.hidden-sm.col-md-9
 tructiephd.com###sl2
