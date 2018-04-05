@@ -178,6 +178,9 @@ truyen1.net###cBalloonMobi
 truyentranhlh.com##.float-ck
 truyentranhlh.com##.quang-cao
 
+vnexpress.net###banner_top
+vnexpress.net##.android_banner_pin
+
 vozforums.com##.middleads
 vozforums.com##[id*="div-gpt-ad"]
 vozforums.com##td > div > div > div > div:has(#div-gpt-ad-reply)
