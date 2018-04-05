@@ -85,6 +85,10 @@ m.facebook.com##.storyStream > article[id^="u_"].storyAggregation
 
 m.gsmarena.com##.adv-mid
 
+m.mp3.zing.vn##.ads_banner_top.ads_banner
+m.mp3.zing.vn##.float-btn-app
+m.mp3.zing.vn##.btn-app
+
 google.*###center_col > #\5f Emc
 google.*###center_col > #main > .dfrd > .mnr-c > .c._oc._zs
 google.*###center_col > #res > #topstuff + #search > div > #ires > #rso > #flun
