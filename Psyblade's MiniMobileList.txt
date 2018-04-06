@@ -167,7 +167,6 @@ oxfordlearnersdictionaries.com##[id*="ad_houseslot"]
 
 quora.com##.ContentPageFeed
 quora.com##.Standard2ColLayout:after
-quora.com##.MobilePageWrapperFooterInner
 quora.com##.outer_content
 
 thethaovanhoa.vn###SC_TBlock_364194
