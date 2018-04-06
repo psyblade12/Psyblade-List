@@ -167,6 +167,7 @@ oxfordlearnersdictionaries.com##[id*="ad_houseslot"]
 
 quora.com##.ContentPageFeed
 quora.com##.Standard2ColLayout:after
+quora.com##.outer_content:has(div[id*="_content_wrapper"]:has(.advertiser_url))
 
 thethaovanhoa.vn###SC_TBlock_364194
 
@@ -188,7 +189,6 @@ vozforums.com##td > div > div > div > div:has(#div-gpt-ad-reply)
 vozforums.com##div[style="text-align: center; padding-bottom: 10px; margin: 0px auto; width: 728px; height: 90px;"]
 vozforums.com##div[style="text-align: center; padding-bottom: 10px; margin: 0 auto; width:728px; height:90px;"]
 vozforums.com###nvozer-migrate
-
 *.voz.vn/*
 
 !-------------------------------------------------------------------------------
