@@ -167,7 +167,7 @@ oxfordlearnersdictionaries.com##[id*="ad_houseslot"]
 
 quora.com##.ContentPageFeed
 quora.com##.Standard2ColLayout:after
-quora.com##.outer_content:has(div[id*="_content_wrapper"]:has(.advertiser_url))
+quora.com##.expanded:has(div[id*="_content_wrapper"]:has(.advertiser_url))
 
 thethaovanhoa.vn###SC_TBlock_364194
 
