@@ -46,6 +46,8 @@ dictionary.goo.ne.jp##div:has([id^="yads_"])
 
 en.miui.com###app
 
+foody.vn###popup-panel
+
 greasyfork.org##.ad-content
 greasyfork.org##.carbon-ad.ad
 
