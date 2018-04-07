@@ -187,6 +187,7 @@ truyentranhlh.com##.quang-cao
 
 vnexpress.net###banner_top
 vnexpress.net##.android_banner_pin
+vnexpress.net###admbackground
 
 vozforums.com##.middleads
 vozforums.com##[id*="div-gpt-ad"]
