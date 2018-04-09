@@ -139,7 +139,7 @@ oxfordlearnersdictionaries.com##[id*="ad_topslot_"]
 oxfordlearnersdictionaries.com##[id*="ad_houseslot"]
 oxfordlearnersdictionaries.com##[id*="ad_leftslot_"]
 
-quora.com##div[id*="_content_wrapper"]:has(.advertiser_url)
+quora.com##div[id*="_content_wrapper"]:has(.advertiser_endpoint)
 quora.com##.AdBundle
 
 readcomiconline.to###fl-ads
