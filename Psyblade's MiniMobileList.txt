@@ -174,6 +174,9 @@ quora.com## .AdBundle.Bundle
 
 thethaovanhoa.vn###SC_TBlock_364194
 
+thiendia.com##[id*="divAd"]
+thiendia.com## .my_responsive_ads
+
 tinhte.vn##.adWidget-gpt
 
 tlk.io###sponsor
