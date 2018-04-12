@@ -37,6 +37,7 @@
 m.9gag.com##.salt-container
 m.9gag.com##.primary.blue.fill.full-bleed.block.btn
 m.9gag.com###jsid-screen-wrapper-bottom-ad
+m.9gag.com##.download.grey.panel
 
 bilutv.com###adsmessage
 
