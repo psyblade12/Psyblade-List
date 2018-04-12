@@ -173,6 +173,8 @@ quora.com##.Standard2ColLayout:after
 quora.com##.outer_content
 quora.com## .AdBundle.Bundle
 
+reddit.com##.size-compact.Post:has([class*=promoted])
+
 thethaovanhoa.vn###SC_TBlock_364194
 
 thiendia.com##[id*="divAd"]
