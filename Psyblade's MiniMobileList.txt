@@ -184,6 +184,8 @@ tinhte.vn##.adWidget-gpt
 
 tlk.io###sponsor
 
+tiki.vn##.top-banner-link
+
 tomshardware.com##.docked-buttons
 
 truyen1.net###cBalloonMobi
