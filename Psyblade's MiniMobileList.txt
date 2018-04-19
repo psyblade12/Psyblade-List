@@ -165,6 +165,8 @@ news.zing.vn##[id*="adv"]
 nhaccuatui.com###i_box_popup
 nhaccuatui.com##.bannerAdv > div:nth-of-type(1)
 
+onedrive.live.com##.od-mobileWebToAppUpsell
+
 oxfordlearnersdictionaries.com##[id*="ad_btmslot_"]
 oxfordlearnersdictionaries.com##[id*="ad_topslot_"]
 oxfordlearnersdictionaries.com##[id*="ad_houseslot"]
