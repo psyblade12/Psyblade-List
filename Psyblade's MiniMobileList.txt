@@ -71,7 +71,6 @@ m.baomoi.com##.is-pr
 m.baomoi.com##.robots-nocontent
 m.baomoi.com###wrapperTop:after
 m.baomoi.com##.anchor.download-app
-m.baomoi.com##.footer
 
 m.blogtruyen.com##input[style="position: fixed;width: 20px;height: 20px; background: #16FF16;border: 0px;"]
 m.blogtruyen.com##.qc-inner
