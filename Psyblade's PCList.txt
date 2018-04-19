@@ -62,6 +62,7 @@ blogtruyen.com##.qc-css
 
 bulbapedia.bulbagarden.net###upper-article
 bulbapedia.bulbagarden.net###netnaut
+bulbapedia.bulbagarden.net###laptop-box
 
 danviet.vn##[id*="ADS_"]
 
