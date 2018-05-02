@@ -45,6 +45,7 @@ ce.linedict.com##.downapp_area
 
 dictionary.goo.ne.jp##[id*="div-gpt-ad"]
 dictionary.goo.ne.jp##div:has([id^="yads_"])
+dictionary.goo.ne.jp##div[style="height: 50px; position: fixed; z-index: 998; bottom: 0; width: 100%; display: block; text-align: center; background-color: rgba(59,88,152,0.5);"]
 
 en.miui.com###app
 
