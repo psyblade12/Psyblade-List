@@ -67,6 +67,7 @@ bulbapedia.bulbagarden.net###laptop-box
 danviet.vn##[id*="ADS_"]
 
 dictionary.goo.ne.jp##.adsbygoogle
+dictionary.goo.ne.jp###gooad-long
 
 developers.whatismybrowser.com##.funholderleaderboard728
 
