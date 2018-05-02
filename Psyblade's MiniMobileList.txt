@@ -208,4 +208,7 @@ vozforums.com##div[style="text-align: center; padding-bottom: 10px; margin: 0 au
 vozforums.com###nvozer-migrate
 *.voz.vn/*
 
+forum.xda-developers.com###posts > div:has([id^="purch_"])
+forum.xda-developers.com##.purchad
+
 !-------------------------------------------------------------------------------
