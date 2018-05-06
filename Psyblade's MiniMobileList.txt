@@ -207,7 +207,7 @@ vozforums.com##[id*="div-gpt-ad"]
 vozforums.com##td > div > div > div > div:has(#div-gpt-ad-reply)
 vozforums.com##div[style="text-align: center; padding-bottom: 10px; margin: 0px auto; width: 728px; height: 90px;"]
 vozforums.com##div[style="text-align: center; padding-bottom: 10px; margin: 0 auto; width:728px; height:90px;"]
-vozforums.com###nvozer-migrate
+vozforums.com###btn-migrate-to-voz
 *.voz.vn/*
 
 forum.xda-developers.com###posts > div:has([id^="purch_"])
