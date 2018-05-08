@@ -91,6 +91,7 @@ m.facebook.com##.storyStream > article[id^="u_"]._676
 m.facebook.com##.storyStream > article[id^="u_"].storyAggregation
 
 m.gsmarena.com##.adv-mid
+m.gsmarena.com##[id*="div-gpt-ad"]
 
 m.mp3.zing.vn##.ads_banner_top.ads_banner
 m.mp3.zing.vn##.float-btn-app
@@ -186,10 +187,10 @@ quora.com##[class*="outer_content"]
 quora.com## .AdBundle.Bundle
 quora.com###__w2_JS00Kry_zapdos_wall_wrapper
 
-
 reddit.com##.size-compact.Post:has([class*=promoted])
 
 thethaovanhoa.vn###SC_TBlock_364194
+thethaovanhoa.vn###lava_banner_inpage
 
 thiendia.com##[id*="divAd"]
 thiendia.com## .my_responsive_ads
@@ -206,6 +207,8 @@ truyen1.net###cBalloonMobi
 
 truyentranhlh.com##.float-ck
 truyentranhlh.com##.quang-cao
+truyentranhlh.com##[id*="adtruefr-"]
+truyentranhlh.com###lg
 
 vnexpress.net###banner_top
 vnexpress.net##.android_banner_pin
