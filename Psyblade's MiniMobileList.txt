@@ -184,6 +184,8 @@ quora.com##.ContentPageFeed
 quora.com##.Standard2ColLayout:after
 quora.com##[class*="outer_content"]
 quora.com## .AdBundle.Bundle
+quora.com###__w2_JS00Kry_zapdos_wall_wrapper
+
 
 reddit.com##.size-compact.Post:has([class*=promoted])
 
