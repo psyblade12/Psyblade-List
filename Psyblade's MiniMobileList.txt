@@ -191,6 +191,7 @@ reddit.com##.size-compact.Post:has([class*=promoted])
 
 thethaovanhoa.vn###SC_TBlock_364194
 thethaovanhoa.vn###lava_banner_inpage
+thethaovanhoa.vn##[id*="adtruefr-"]
 
 thiendia.com##[id*="divAd"]
 thiendia.com## .my_responsive_ads
