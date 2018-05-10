@@ -150,6 +150,7 @@ readcomiconline.to###fl-ads
 reddit.com##[id*="ad_"]
 
 speedtest.net##.container-leaderboard.a-container
+speedtest.net###_evh-button
 
 tinhte.vn##div[class^="jsx-"]:has([id^="bling-"]):matches-css(height:120px)
 
