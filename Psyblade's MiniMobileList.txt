@@ -54,6 +54,9 @@ foody.vn###popup-panel
 greasyfork.org##.ad-content
 greasyfork.org##.carbon-ad.ad
 
+hinative.com###js-recommendation_of_app
+hinative.com## .middle-xs.row
+
 lazada.vn###stack-mobile-container
 lazada.vn##.smart-banner-1-8__inner
 lazada.vn###J_Banner
@@ -165,6 +168,10 @@ news.zing.vn##[id*="adv"]
 
 nhaccuatui.com###i_box_popup
 nhaccuatui.com##.bannerAdv > div:nth-of-type(1)
+m.nhaccuatui.com###divSmartAppBanner
+m.nhaccuatui.com##.bannerAdv
+m.nhaccuatui.com###btnPromoteApp
+m.nhaccuatui.com##.view_destop
 
 onedrive.live.com##.od-mobileWebToAppUpsell
 
