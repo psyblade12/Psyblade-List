@@ -159,6 +159,7 @@ google.*###sqh
 m.youtube.com##a[onclick*="\"ping_url\":\"http://www.google.com/aclk?"]
 m.youtube.com##a[onclick^="return koya.onEvent(arguments[0]||window.event,'"]
 m.youtube.com##a[onclick^="return koya.onEvent(arguments[0]||window.event,'"] + div
+m.youtube.com##YTM-PROMOTED-VIDEO-RENDERER
 
 m.vnreview.vn##[id*="div-gpt-ad"]
 m.vnreview.vn##.accessTrade
