@@ -54,9 +54,6 @@ foody.vn###popup-panel
 greasyfork.org##.ad-content
 greasyfork.org##.carbon-ad.ad
 
-hinative.com###js-recommendation_of_app
-hinative.com##.sound.on_content.banner_premium
-
 lazada.vn###stack-mobile-container
 lazada.vn##.smart-banner-1-8__inner
 lazada.vn###J_Banner
