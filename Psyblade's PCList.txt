@@ -143,6 +143,7 @@ oxfordlearnersdictionaries.com##[id*="ad_houseslot"]
 oxfordlearnersdictionaries.com##[id*="ad_leftslot_"]
 
 quora.com##div[id*="_content_wrapper"]:has(.advertiser_endpoint)
+www.quora.com##.PromptsList
 quora.com##.AdBundle
 
 readcomiconline.to###fl-ads
