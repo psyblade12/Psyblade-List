@@ -232,5 +232,6 @@ vozforums.com###btn-migrate-to-voz
 
 forum.xda-developers.com###posts > div:has([id^="purch_"])
 forum.xda-developers.com##.purchad
-
+xda-developers.com##.sponsor-banner
+xda-developers.com##[id*="purch_"]
 !-------------------------------------------------------------------------------
