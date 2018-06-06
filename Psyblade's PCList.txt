@@ -104,6 +104,7 @@ hamtruyen.com###middle > .container
 hamtruyen.com##.thongbao_theochuong.alert-dismissible.alert-info.alert
 
 hentaivn.net###page_ads_right
+hentaivn.net##.qc_main
 
 hinative.com##.sidebar
 
