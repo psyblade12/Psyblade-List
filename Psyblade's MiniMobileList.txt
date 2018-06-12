@@ -195,6 +195,7 @@ quora.com## .AdBundle.Bundle
 quora.com###__w2_JS00Kry_zapdos_wall_wrapper
 
 reddit.com##.size-compact.Post:has([class*=promoted])
+reddit.com##.DualPartInterstitial
 
 thethaovanhoa.vn###SC_TBlock_364194
 thethaovanhoa.vn###lava_banner_inpage
