@@ -148,9 +148,10 @@ oxfordlearnersdictionaries.com##[id*="ad_houseslot"]
 oxfordlearnersdictionaries.com##[id*="ad_leftslot_"]
 
 quora.com##div[id*="_content_wrapper"]:has(.advertiser_endpoint)
-www.quora.com##.PromptsList
+quora.com##.PromptsList
 quora.com##.AdBundle
-www.quora.com##div> div>div>div>div> div>div>div>div> div>div>div>div:has-text(/(?:promoted|ad)\s+by/i)
+quora.com##div> div>div>div>div> div>div>div>div> div>div>div>div:has-text(/(?:promoted|ad)\s+by/i)
+quora.com##div> div>div>div>div> div>div>div>div> div>div>div>div:has-text(/(?:By)\s+Quora for Business/i)
 
 readcomiconline.to###fl-ads
 
