@@ -147,9 +147,6 @@ oxfordlearnersdictionaries.com##[id*="ad_topslot_"]
 oxfordlearnersdictionaries.com##[id*="ad_houseslot"]
 oxfordlearnersdictionaries.com##[id*="ad_leftslot_"]
 
-quora.com##div> div>div>div>div> div>div>div>div> div>div>div>div:has-text(/(?:promoted|ad)\s+by/i)
-quora.com##div> div>div>div>div> div>div>div>div> div>div>div>div:has-text(/(?:By)\s+Quora for Business/i)
-
 readcomiconline.to###fl-ads
 
 reddit.com##[id*="ad_"]
