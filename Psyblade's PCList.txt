@@ -147,9 +147,6 @@ oxfordlearnersdictionaries.com##[id*="ad_topslot_"]
 oxfordlearnersdictionaries.com##[id*="ad_houseslot"]
 oxfordlearnersdictionaries.com##[id*="ad_leftslot_"]
 
-quora.com##div[id*="_content_wrapper"]:has(.advertiser_endpoint)
-quora.com##.PromptsList
-quora.com##.AdBundle
 quora.com##div> div>div>div>div> div>div>div>div> div>div>div>div:has-text(/(?:promoted|ad)\s+by/i)
 quora.com##div> div>div>div>div> div>div>div>div> div>div>div>div:has-text(/(?:By)\s+Quora for Business/i)
 
