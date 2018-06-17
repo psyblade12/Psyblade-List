@@ -27,6 +27,8 @@
 ||stc-nas.nixcdn.com/v4/ads/*
 ||static.hplus.com.vn/themes/front/ads/*
 ||*.yomedia.vn/*
+||*.bidgear.com/*
+||*.adtrue.com/*
 
 !-------------------------------------------------------------------------------
 
