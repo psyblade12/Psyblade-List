@@ -220,6 +220,10 @@ truyentranhlh.com##.float-ck
 truyentranhlh.com##.quang-cao
 truyentranhlh.com##[id*="adtruefr-"]
 truyentranhlh.com###lg
+//Xóa 2 cái br dư ra sau cái quảng cáo. Có thể gây lỗi.
+truyentranhlh.com##.chapter-content >center:nth-of-type(2)+br
+truyentranhlh.com##.chapter-content >center:nth-of-type(2)+br+br
+
 
 vnexpress.net###banner_top
 vnexpress.net##.android_banner_pin
