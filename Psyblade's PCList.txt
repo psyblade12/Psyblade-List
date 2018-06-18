@@ -163,6 +163,10 @@ tinhte.vn##div[class^="jsx-"]:has([id^="bling-"]):matches-css(height:120px)
 truyentranhlh.com##.quang-cao
 truyentranhlh.com##.float-ck
 
+//Xóa 2 cái <br> thừa ra. Có khả năng gây lỗi.
+truyentranhlh.com##.chapter-content >center:nth-of-type(2)+br
+truyentranhlh.com##.chapter-content >center:nth-of-type(2)+br+br
+
 thanhnien.vn##[id*="adsctl00_main"]
 
 the-qrcode-generator.com###visual_qr
