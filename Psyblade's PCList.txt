@@ -99,6 +99,7 @@ greasyfork.org##.ad-content
 
 gsmarena.com##.banner-mpu.adv
 gsmarena.com###topAdv
+www.gsmarena.com##div.module:has-text(Ebay offers)
 
 hamtruyen.com###middle > .container
 hamtruyen.com##.thongbao_theochuong.alert-dismissible.alert-info.alert
