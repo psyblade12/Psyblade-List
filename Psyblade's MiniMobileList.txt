@@ -52,6 +52,7 @@ dictionary.goo.ne.jp##div[style="height: 50px; position: fixed; z-index: 998; bo
 en.miui.com###app
 
 foody.vn###popup-panel
+foody.vn##.bannerads
 
 greasyfork.org##.ad-content
 greasyfork.org##.carbon-ad.ad
