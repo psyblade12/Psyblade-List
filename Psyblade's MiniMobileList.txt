@@ -225,6 +225,7 @@ truyentranhlh.com###lg
 truyentranhlh.com##.chapter-content >center:nth-of-type(2)+br
 truyentranhlh.com##.chapter-content >center:nth-of-type(2)+br+br
 
+urbandictionary.com##.da-panel
 
 vnexpress.net###banner_top
 vnexpress.net##.android_banner_pin
