@@ -207,7 +207,7 @@ vov.vn###rightstickyads
 vov.vn###QCctl00_AdsContentAllPage1
 vov.vn##.clearfix.ads
 
-*.voz.vn/*
+api.voz.vn/*
 vozforums.com###btn-migrate-to-voz
 
 vtv.vn##.bg-dark.knswli-object-wrapper > .clearfix
