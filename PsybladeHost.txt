@@ -64,6 +64,3 @@
 127.0.0.1 trackersimulator.org
 127.0.0.1 eviltracker.net
 127.0.0.1 do-not-tracker.org
-
-118.69.192.81 vozforums.com
-118.69.192.81 www.vozforums.com
