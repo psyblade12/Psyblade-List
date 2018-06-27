@@ -122,6 +122,8 @@ livescore.com##.hidden-xs.bb:nth-of-type(4)
 
 mazii.net##.affilate-screen
 
+en.miui.com##[id*="favatar"] >  .md_ctrl
+
 ||znews-static.zadn.vn/banner/ads/*$image
 news.zing.vn###highlight
 news.zing.vn###advArticleBottom
