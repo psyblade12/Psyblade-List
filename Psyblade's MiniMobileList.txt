@@ -168,6 +168,8 @@ m.youtube.com##YTM-PROMOTED-VIDEO-RENDERER
 m.vnreview.vn##[id*="div-gpt-ad"]
 m.vnreview.vn##.accessTrade
 
+en.miui.com##[id*="favatar"] >  .md_ctrl
+
 news.zing.vn##[id*="adv"]
 
 nhaccuatui.com###i_box_popup
