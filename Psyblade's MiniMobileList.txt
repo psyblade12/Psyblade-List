@@ -232,12 +232,12 @@ vnexpress.net###banner_top
 vnexpress.net##.android_banner_pin
 vnexpress.net###admbackground
 
-vozforums.com##.middleads
-vozforums.com##[id*="div-gpt-ad"]
-vozforums.com##td > div > div > div > div:has(#div-gpt-ad-reply)
-vozforums.com##div[style="text-align: center; padding-bottom: 10px; margin: 0px auto; width: 728px; height: 90px;"]
-vozforums.com##div[style="text-align: center; padding-bottom: 10px; margin: 0 auto; width:728px; height:90px;"]
-vozforums.com###btn-migrate-to-voz
+forums.voz.vn##.middleads
+forums.voz.vn##[id*="div-gpt-ad"]
+forums.voz.vn##td > div > div > div > div:has(#div-gpt-ad-reply)
+forums.voz.vn##div[style="text-align: center; padding-bottom: 10px; margin: 0px auto; width: 728px; height: 90px;"]
+forums.voz.vn##div[style="text-align: center; padding-bottom: 10px; margin: 0 auto; width:728px; height:90px;"]
+forums.voz.vn###btn-migrate-to-voz
 ||api.voz.vn/*
 
 forum.xda-developers.com###posts > div:has([id^="purch_"])
