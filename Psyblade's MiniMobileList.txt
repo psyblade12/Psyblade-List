@@ -58,7 +58,6 @@ greasyfork.org##.ad-content
 greasyfork.org##.carbon-ad.ad
 
 hinative.com###js-recommendation_of_app
-hinative.com## .middle-xs.row
 hinative.com##.float_app_recommend_button_group
 
 lazada.vn###stack-mobile-container
