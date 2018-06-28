@@ -210,7 +210,7 @@ vov.vn###QCctl00_AdsContentAllPage1
 vov.vn##.clearfix.ads
 
 ||api.voz.vn/*
-vozforums.com###btn-migrate-to-voz
+forums.voz.vn###btn-migrate-to-voz
 
 vtv.vn##.bg-dark.knswli-object-wrapper > .clearfix
 
