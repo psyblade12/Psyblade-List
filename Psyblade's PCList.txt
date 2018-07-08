@@ -140,6 +140,7 @@ nhaccuatui.com##.wpage
 nhaccuatui.com###HR01
 nhaccuatui.com###S_Popup
 nhaccuatui.com###ifS_Inner485-shrink
+nhaccuatui.com##.nqc-zone
 
 nld.com.vn##.bordertopmenuv4
 
