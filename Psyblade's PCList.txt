@@ -133,13 +133,6 @@ news.zing.vn###site-header
 news.zing.vn##[id*="advR"]
 
 nhaccuatui.com##[id*="Popup"]
-nhaccuatui.com##[id*="_R"]
-nhaccuatui.com###PL_Comment
-nhaccuatui.com##[class*="ads"]
-nhaccuatui.com##.wpage
-nhaccuatui.com###HR01
-nhaccuatui.com###S_Popup
-nhaccuatui.com###ifS_Inner485-shrink
 nhaccuatui.com##.nqc-zone
 
 nld.com.vn##.bordertopmenuv4
