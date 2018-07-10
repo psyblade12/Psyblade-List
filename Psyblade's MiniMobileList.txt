@@ -159,6 +159,7 @@ google.*##.rscontainer > .ellip
 google.*##.section-result[data-result-ad-type]
 google.*##.widget-pane-section-result[data-result-ad-type]
 google.*###sqh
+google.*###center_col>div:has(ol:has(.ads-ad))
 
 m.youtube.com##a[onclick*="\"ping_url\":\"http://www.google.com/aclk?"]
 m.youtube.com##a[onclick^="return koya.onEvent(arguments[0]||window.event,'"]
