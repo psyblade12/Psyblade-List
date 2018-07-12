@@ -145,7 +145,7 @@ oxfordlearnersdictionaries.com##[id*="ad_houseslot"]
 oxfordlearnersdictionaries.com##[id*="ad_leftslot_"]
 
 quora.com##div.pagedlist_item + div:has(a[rel=noopener])
-quora.com##div.layout_2col_main > div:not(.AnswerListDiv):has(a[rel=noopener])
+quora.com##.layout_2col_main>div>div>div:has-text(/(?:Ad|Promoted)\s+By/i)
 quora.com##.Bundle:has-text(/(?:Ad|Promoted)\s+By/i)
 
 readcomiconline.to###fl-ads
