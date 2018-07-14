@@ -91,6 +91,8 @@ facebook.com##.rhcFooter
 foody.vn##[id*="banner"]
 foody.vn##.banner-header-top.foody-banner.foody-wapper
 
+||fptplay.vn/wc2018/source/js/fpt_qc_tvc.js?v=2.1^$script
+
 forum.xda-developers.com###purch_Y_L_1_1
 forum.xda-developers.com##.xda-box.postbit-wrapper
 
