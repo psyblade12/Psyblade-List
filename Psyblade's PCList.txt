@@ -125,6 +125,8 @@ livescore.com##.hidden-xs.bb:nth-of-type(4)
 
 mazii.net##.affilate-screen
 
+mp3.zing.vn###header-version-v5
+
 en.miui.com##[id*="favatar"] >  .md_ctrl
 
 ||znews-static.zadn.vn/banner/ads/*$image
@@ -169,6 +171,7 @@ truyentranhlh.com##.chapter-content >center:nth-of-type(2)+br
 truyentranhlh.com##.chapter-content >center:nth-of-type(2)+br+br
 
 thanhnien.vn##[id*="adsctl00_main"]
+thanhnien.vn##.tn-logo
 
 the-qrcode-generator.com###visual_qr
 
