@@ -203,6 +203,8 @@ quora.com###__w2_JS00Kry_zapdos_wall_wrapper
 reddit.com##.size-compact.Post:has([class*=promoted])
 reddit.com##.size-default.Post:has([class*=promoted])
 
+m.thanhnien.vn##.qc.banner
+
 thethaovanhoa.vn###SC_TBlock_364194
 thethaovanhoa.vn###lava_banner_inpage
 thethaovanhoa.vn##[id*="adtruefr-"]
