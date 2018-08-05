@@ -43,7 +43,7 @@ m.9gag.com##.download.grey.panel
 
 bilutv.com###adsmessage
 
-ce.linedict.com##.downapp_area
+dict.naver.com##.downapp_area
 
 dictionary.goo.ne.jp##[id*="div-gpt-ad"]
 dictionary.goo.ne.jp##div:has([id^="yads_"])
