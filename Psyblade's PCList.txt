@@ -163,6 +163,7 @@ speedtest.net###_evh-button
 
 tinhte.vn##div[class^="jsx-"]:has([id^="bling-"]):matches-css(height:120px)
 tinhte.vn##div[class*=snd]>div:has(div[id*="bling-"])
+tinhte.vn##.TinhteMods_KmThreads
 
 truyentranhlh.com##.quang-cao
 truyentranhlh.com##.float-ck
