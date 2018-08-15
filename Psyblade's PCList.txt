@@ -219,6 +219,8 @@ vtv.vn##.bg-dark.knswli-object-wrapper > .clearfix
 
 vn.answers.yahoo.com###ya-center-two-col
 
+vn-zoom.org##.accessTrade
+
 webtretho.com###content_video
 
 youtube.com###player-ads
