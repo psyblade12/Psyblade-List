@@ -220,6 +220,7 @@ tlk.io###sponsor
 tiki.vn##.top-banner-link
 
 tomshardware.com##.docked-buttons
+tomshardware.com##.loaded.lazy
 
 truyen1.net###cBalloonMobi
 
