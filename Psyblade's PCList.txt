@@ -111,6 +111,7 @@ hdvietnam.com##[class*="ads"]
 
 hentaivn.net###page_ads_right
 hentaivn.net##.qc_main
+||https://hentaivn.net/js/abp.js
 
 hinative.com##.sidebar
 
