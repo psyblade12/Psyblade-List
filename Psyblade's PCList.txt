@@ -180,6 +180,7 @@ the-qrcode-generator.com###visual_qr
 
 thiendia.com##.my_responsive_ads
 thiendia.com##[href*="http://server8.upload69.net/images/2018/05/17/Quang-Cao-Thiendia"]
+thiendia.com##div.section:nth-of-type(2) > .secondaryContent
 
 tiki.vn##.text-center.native-banner
 
