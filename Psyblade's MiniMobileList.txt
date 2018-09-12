@@ -218,6 +218,7 @@ tinhte.vn##.adWidget-gpt
 tlk.io###sponsor
 
 tiki.vn##.top-banner-link
+tiki.vn##.hightlight-bar
 
 tomshardware.com##.docked-buttons
 tomshardware.com##.loaded.lazy
