@@ -60,6 +60,8 @@ blogtruyen.com##.qc-inner
 blogtruyen.com###mota
 blogtruyen.com##div:nth-of-type(5)
 blogtruyen.com##.qc-css
+blogtruyen.com##.manga-detail >hr:nth-of-type(2)
+blogtruyen.com##.manga-detail > center:has(img)
 
 bulbapedia.bulbagarden.net###upper-article
 bulbapedia.bulbagarden.net###netnaut
