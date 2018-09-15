@@ -62,7 +62,7 @@ blogtruyen.com##div:nth-of-type(5)
 blogtruyen.com##.qc-css
 blogtruyen.com##.manga-detail >hr:nth-of-type(2)
 blogtruyen.com##.manga-detail > center:has(img)
-blogtruyen.com##body > [href^="http://c.bong99.com/"] > div
+blogtruyen.com##body > a > div:matches-css(z-index:2147483647)
 
 bulbapedia.bulbagarden.net###upper-article
 bulbapedia.bulbagarden.net###netnaut
