@@ -232,6 +232,7 @@ truyentranhlh.com###lg
 //Xóa 2 cái br dư ra sau cái quảng cáo. Có thể gây lỗi.
 truyentranhlh.com##.chapter-content >center:nth-of-type(2)+br
 truyentranhlh.com##.chapter-content >center:nth-of-type(2)+br+br
+truyentranhlh.net##.mobile_hidden
 
 urbandictionary.com##.da-panel
 urbandictionary.com##.mug-ad
