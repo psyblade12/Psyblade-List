@@ -90,7 +90,7 @@ facebook.com##.egoOrganicColumn.ego_column.s_1o8820bhj3._5qrt.pagelet > .wrapper
 facebook.com##.home_right_column
 facebook.com###pagelet_ego_pane
 facebook.com##.rhcFooter
-facebook.com##.userContentWrapper:has(div[id*="feed_subtitle_"]>s)
+facebook.com##[id^="hyperfeed_story_id"]:has(div[id^="feed_subtitle_"]>s)
 
 foody.vn##[id*="banner"]
 foody.vn##.banner-header-top.foody-banner.foody-wapper
@@ -198,6 +198,8 @@ truyentranh8.net###quangcaotop2
 truyentranh8.net##.alert.text-center.center-block.tt8quangcao
 truyentranh8.net###hide_float
 truyentranh8.net##.tt8quangcao.hideTablet.float-ck2
+
+||https://www.thivien.net/thivien.1536947274.js
 
 tuoitre.vn##.clearfix.bar-new
 
