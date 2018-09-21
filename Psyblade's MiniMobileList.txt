@@ -234,6 +234,8 @@ truyentranhlh.com##.chapter-content >center:nth-of-type(2)+br
 truyentranhlh.com##.chapter-content >center:nth-of-type(2)+br+br
 truyentranhlh.net##.mobile_hidden
 
+||https://www.thivien.net/thivien.1536947274.js
+
 urbandictionary.com##.da-panel
 urbandictionary.com##.mug-ad
 
