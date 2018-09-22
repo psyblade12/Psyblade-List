@@ -86,7 +86,7 @@ m.blogtruyen.com##.qc-inner
 m.blogtruyen.com###qcInnerContentList
 m.blogtruyen.com##.chapter-detail > center
 forum.blogtruyen.com##.qc-css
-m.blogtruyen.com##:-abp-has([allow*="autoplay"]):-abp-has([src*="dailymotion.com/embed"])
+||dailymotion.com/embed/video/x6tcgkr
 
 m.facebook.com###m_newsfeed_stream article[data-ft*="\"ei\":\""]
 m.facebook.com##.aymlCoverFlow
