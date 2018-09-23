@@ -245,6 +245,7 @@ vnexpress.net##.android_banner_pin
 vnexpress.net###admbackground
 vnexpress.net###ads_large_detail
 vnexpress.net##.vne_footer_ads
+vnexpress.net## .banner_ads
 
 forums.voz.vn##.middleads
 forums.voz.vn##[id*="div-gpt-ad"]
