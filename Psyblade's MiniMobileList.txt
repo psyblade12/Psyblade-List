@@ -45,6 +45,8 @@ m.9gag.com##.download.grey.panel
 
 bilutv.com###adsmessage
 
+bongda.com.vn##[id*="div-gpt-ad"]
+
 dict.naver.com##.downapp_area
 
 dictionary.goo.ne.jp##[id*="div-gpt-ad"]
