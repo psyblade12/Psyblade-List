@@ -49,6 +49,8 @@ bilutv.com###adsmessage
 
 bongda.com.vn##[id*="div-gpt-ad"]
 
+m.bulbapedia.bulbagarden.net##div>div>div:has(img[src^="https://ahost.bulbagarden.net"])
+
 dict.naver.com##.downapp_area
 
 dictionary.goo.ne.jp##[id*="div-gpt-ad"]
