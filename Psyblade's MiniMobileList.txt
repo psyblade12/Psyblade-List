@@ -11,6 +11,7 @@
 
 !-----------------------------------Ad Server Rules-----------------------------
 
+
 ||188bongda.com/*
 ||360game.vn/*
 ||*.ad-score.com/*
@@ -31,6 +32,8 @@
 ||*.adtrue.com/*
 ||*.adnetwork.vn/*
 ||*.hadarone.com/*
+||dailymotion.com/embed/*
+
 
 !-------------------------------------------------------------------------------
 
@@ -92,7 +95,6 @@ m.blogtruyen.com##.qc-inner
 m.blogtruyen.com###qcInnerContentList
 m.blogtruyen.com##.chapter-detail > center
 forum.blogtruyen.com##.qc-css
-||dailymotion.com/embed/*
 
 m.facebook.com###m_newsfeed_stream article[data-ft*="\"ei\":\""]
 m.facebook.com##.aymlCoverFlow
