@@ -214,6 +214,7 @@ quora.com###__w2_JS00Kry_zapdos_wall_wrapper
 reddit.com##.size-compact.Post:has([class*=promoted])
 reddit.com##.size-default.Post:has([class*=promoted])
 reddit.com##.DualPartInterstitial:has(.appButton)
+reddit.com##.Snackbar:has(.SnackBar__yes):has(.SnackBar__no)
 
 m.thanhnien.vn##.qc.banner
 
