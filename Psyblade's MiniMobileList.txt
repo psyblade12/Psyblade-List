@@ -257,6 +257,8 @@ vnexpress.net###ads_large_detail
 vnexpress.net##.vne_footer_ads
 vnexpress.net## .banner_ads
 
+vtv.vn##div[id*=adnzone]
+
 forums.voz.vn##.middleads
 forums.voz.vn##[id*="div-gpt-ad"]
 forums.voz.vn##td > div > div > div > div:has(#div-gpt-ad-reply)
