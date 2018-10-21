@@ -97,6 +97,7 @@ m.blogtruyen.com###qcInnerContentList
 m.blogtruyen.com##.chapter-detail > center
 forum.blogtruyen.com##.qc-css
 m.blogtruyen.com###qc_M_Home_4_Detail
+m.blogtruyen.com##.qc_M_Chap_Middle
 
 m.facebook.com###m_newsfeed_stream article[data-ft*="\"ei\":\""]
 m.facebook.com##.aymlCoverFlow
