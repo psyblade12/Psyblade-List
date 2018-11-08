@@ -124,7 +124,7 @@ hinative.com##.sidebar
 hocvientruyentranh.com###float_left
 hocvientruyentranh.com###float_right
 
-howtogeek.com##div[style^="margin-top: 5px; margin-bottom: 15px"]:has(script[src^="//pagead2.google"])
+howtogeek.com##div[style^="margin-top:5px"]:has(script[src^="//pagead2.google"])
 
 lhscans.com##.float-ck
 lhscans.com## .quang-cao
