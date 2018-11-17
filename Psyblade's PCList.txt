@@ -36,6 +36,8 @@ anime47.com###sidebar > a[href*="goo.gl"]
 anime47.com##.ad-top-300-250
 anime47.com##.banner-top.ad-container.row
 anime47.com###ads_location
+anime47.com##[id*="notie-"]
+anime47.com##.box-rating:has(#thongbao)
 
 animetvn.tv##body > .gnarty-offads
 
