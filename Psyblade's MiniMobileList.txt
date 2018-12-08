@@ -34,7 +34,11 @@
 ||*.hadarone.com/*
 ||dailymotion.com/embed/*
 ||*.lavamedia.vn/*
-
+||*.innity.net/*
+||*.innity.com/*
+||*.ad.org.vn/*
+||*.adasiaholdings.com/*
+||*.adbro.me/*
 !-------------------------------------------------------------------------------
 
 !-------------------------------Website Content Rules---------------------------
@@ -224,6 +228,7 @@ m.thanhnien.vn##.qc.banner
 thethaovanhoa.vn###SC_TBlock_364194
 thethaovanhoa.vn###lava_banner_inpage
 thethaovanhoa.vn##[id*="adtruefr-"]
+thethaovanhoa.vn##[id*="ad_inpage_containereac"]
 
 thiendia.com##[id*="divAd"]
 thiendia.com## .my_responsive_ads
