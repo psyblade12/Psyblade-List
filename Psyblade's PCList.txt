@@ -94,7 +94,9 @@ facebook.com##.egoOrganicColumn.ego_column.s_1o8820bhj3._5qrt.pagelet > .wrapper
 facebook.com##.home_right_column
 facebook.com###pagelet_ego_pane
 facebook.com##.rhcFooter
-
+facebook.com#?#[id^=hyperfeed_story_id_]:-abp-has(a[href*="client_token"])
+facebook.com#?#[id^=hyperfeed_story_id_]:-abp-has(a[href*="utm_campaign"])
+facebook.com#?##substream_1:-abp-has([id^="feed_subtitle_"]:-abp-contains(Sp))
 
 foody.vn##[id*="banner"]
 foody.vn##.banner-header-top.foody-banner.foody-wapper
