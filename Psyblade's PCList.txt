@@ -97,6 +97,7 @@ facebook.com##.rhcFooter
 facebook.com#?#[id^=hyperfeed_story_id_]:-abp-has(a[href*="client_token"])
 facebook.com#?#[id^=hyperfeed_story_id_]:-abp-has(a[href*="utm_campaign"])
 facebook.com#?##substream_1:-abp-has([id^="feed_subtitle_"]:-abp-contains(Sp))
+facebook.com###pagelet_canvas_nav_content:has(span:has-text(Gaming Video))
 
 foody.vn##[id*="banner"]
 foody.vn##.banner-header-top.foody-banner.foody-wapper
