@@ -166,9 +166,9 @@ oxfordlearnersdictionaries.com##[id*="ad_houseslot"]
 oxfordlearnersdictionaries.com##[id*="ad_leftslot_"]
 
 quora.com##div.pagedlist_item + div:has(a[rel=noopener])
-quora.com##.Bundle:has-text(/(?:Ad|Promoted)\s+By/i)
-quora.com##.layout_2col_main>div>div>:has-text(/(?:Ad|Promoted)\s+By/i)
-quora.com##.Bundle:has(.account_description>div>div:has-text(Promoted))
+quora.com## .Bundle:has(a[rel^="noopener nofollow"]:has(p:has(span:has-text(s))))
+quora.com##.UnifiedAnswerPagedList:has(a[target="_blank"]):has(a[rel^="noo"])
+quora.com##div[data-clog-metadata*="promoted"]
 
 readcomiconline.to###fl-ads
 
