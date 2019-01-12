@@ -167,7 +167,7 @@ oxfordlearnersdictionaries.com##[id*="ad_leftslot_"]
 
 quora.com##div.pagedlist_item + div:has(a[rel=noopener])
 quora.com## .Bundle:has(a[rel^="noopener nofollow"]:has(p:has(span:has-text(s))))
-quora.com##.UnifiedAnswerPagedList:has(a[target="_blank"]):has(a[rel^="noo"])
+quora.com##div[class="pagedlist_item"]:has(a:matches-css(background-image: url("https://qsf.fs.quoracdn.net/-3-images.ui.icons.external_link.svg-26-00368acb38107c3e.svg")))
 quora.com##div[data-clog-metadata*="promoted"]
 
 readcomiconline.to###fl-ads
