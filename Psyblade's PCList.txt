@@ -68,6 +68,8 @@ blogtruyen.com##body > a > div:matches-css(z-index:2147483647)
 blogtruyen.com##div.sidebar>[src^="//www.dailymotion.com/embed/"]
 blogtruyen.com##div.qc_TC_Chap_Middle
 
+bongda.com.vn##div[id^="ads_"]
+
 bulbapedia.bulbagarden.net###upper-article
 bulbapedia.bulbagarden.net###netnaut
 bulbapedia.bulbagarden.net###laptop-box
