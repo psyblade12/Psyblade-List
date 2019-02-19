@@ -44,6 +44,7 @@
 !-------------------------------Website Content Rules---------------------------
 
 ##.adsbygoogle
+##.WikiaTopAdsInner
 
 m.9gag.com##.salt-container
 m.9gag.com##.primary.blue.fill.full-bleed.block.btn
