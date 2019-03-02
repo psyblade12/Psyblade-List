@@ -67,6 +67,7 @@ blogtruyen.com##.manga-detail > center:has(img)
 blogtruyen.com##body > a > div:matches-css(z-index:2147483647)
 blogtruyen.com##div.sidebar>[src^="//www.dailymotion.com/embed/"]
 blogtruyen.com##div.qc_TC_Chap_Middle
+blogtruyen.com##.btnChangeToMobile
 
 bongda.com.vn##div[id^="ads_"]
 
