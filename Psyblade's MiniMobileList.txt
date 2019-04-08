@@ -260,6 +260,7 @@ truyentranhlh.net##.mobile_hidden
 
 urbandictionary.com##.da-panel
 urbandictionary.com##.mug-ad
+urbandictionary.com##.ad-panel
 
 vnexpress.net###banner_top
 vnexpress.net##.android_banner_pin
