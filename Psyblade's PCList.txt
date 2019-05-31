@@ -144,7 +144,7 @@ livescore.com##div.pt4
 
 mazii.net##.affilate-screen
 
-mp3.zing.vn###header-version-v5
+zingmp3.vn###zmp3_Top
 
 en.miui.com##[id*="favatar"] >  .md_ctrl
 
