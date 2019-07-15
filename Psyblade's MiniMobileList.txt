@@ -201,6 +201,7 @@ m.nhaccuatui.com###divSmartAppBanner
 m.nhaccuatui.com##.bannerAdv
 m.nhaccuatui.com###btnPromoteApp
 m.nhaccuatui.com##.view_destop
+m.nhaccuatui.com###popup-download-app-nct
 
 onedrive.live.com##.od-mobileWebToAppUpsell
 
