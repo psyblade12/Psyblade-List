@@ -44,15 +44,16 @@ animetvn.tv##body > .gnarty-offads
 baomoi.com###BaoMoi_Top
 baomoi.com##.fyi--group
 
-||bilutv.com/uploads/star/2xshop.gif$image
-bilutv.com###balloon_left_1
-bilutv.com##.float-ads-left.float-ads
-bilutv.com##.ads
-bilutv.com##.ants-full-banner-image.ants-full-banner.ants-zone
-bilutv.com###ants-zone-584102651-html5
-bilutv.com##.fb-page
-bilutv.com##[id*="ads_zone"]
-bilutv.com##.player_pause_ads
+||bilutv.org/uploads/star/2xshop.gif$image
+bilutv.org###balloon_left_1
+bilutv.org##.float-ads-left.float-ads
+bilutv.org##.ads
+bilutv.org##.ants-full-banner-image.ants-full-banner.ants-zone
+bilutv.org###ants-zone-584102651-html5
+bilutv.org##.fb-page
+bilutv.org##[id*="ads_zone"]
+bilutv.org##.player_pause_ads
+bilutv.org###fanback
 
 blogtruyen.com##.al-c.BT-Ads > center
 blogtruyen.com##body > a[href="https://goo.gl/D6w4JP"] > div
