@@ -239,6 +239,7 @@ thiendia.com##[id*="divAd"]
 thiendia.com## .my_responsive_ads
 
 tinhte.vn##.adWidget-gpt
+tinhte.vn##.TinhteMods_AffiliateWidget
 
 tlk.io###sponsor
 
