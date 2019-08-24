@@ -205,6 +205,7 @@ thiendia.com##.samThreadPostContainerAfter.samAlignCenterAuto.samBannerUnit
 thiendia.com##.threadViewBelowMessages.samAlignCenterAuto.samBannerUnit
 
 tiki.vn##.text-center.native-banner
+tiki.vn##[class*="EdgeBanner__"]
 
 tructiephd.com##.hidden-sm.col-md-9
 tructiephd.com###sl2
