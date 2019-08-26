@@ -159,6 +159,7 @@ news.zing.vn##[id*="advR"]
 
 nhaccuatui.com##[id*="Popup"]
 nhaccuatui.com##.nqc-zone
+nhaccuatui.com###popup-download-app-nct
 
 nld.com.vn##.bordertopmenuv4
 
