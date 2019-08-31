@@ -202,6 +202,7 @@ m.nhaccuatui.com##.bannerAdv
 m.nhaccuatui.com###btnPromoteApp
 m.nhaccuatui.com##.view_destop
 m.nhaccuatui.com###popup-download-app-nct
+m.nhaccuatui.com###tooltips3G
 
 onedrive.live.com##.od-mobileWebToAppUpsell
 
