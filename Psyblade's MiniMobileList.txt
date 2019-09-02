@@ -228,6 +228,9 @@ reddit.com##.size-compact.Post:has([class*=promoted])
 reddit.com##.size-default.Post:has([class*=promoted])
 reddit.com##.DualPartInterstitial:has(.appButton)
 reddit.com##.Snackbar:has(.SnackBar__yes):has(.SnackBar__no)
+reddit.com##.XPromoPill
+
+vn.online.standardchartered.com###remodal-popup-main-div
 
 m.thanhnien.vn##.qc.banner
 
