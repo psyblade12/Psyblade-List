@@ -285,7 +285,6 @@ forums.voz.vn##div[style="text-align: center; padding-bottom: 10px; margin: 0 au
 forums.voz.vn###btn-migrate-to-voz
 ||api.voz.vn/*
 
-forum.xda-developers.com###posts > div:has([id^="purch_"])
 forum.xda-developers.com##.purchad
 xda-developers.com##.sponsor-banner
 xda-developers.com##[id*="purch_"]
