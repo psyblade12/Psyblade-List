@@ -206,6 +206,7 @@ thiendia.com##[href*="http://server8.upload69.net/images/2018/05/17/Quang-Cao-Th
 thiendia.com##div.section:nth-of-type(2) > .secondaryContent
 thiendia.com##.samThreadPostContainerAfter.samAlignCenterAuto.samBannerUnit
 thiendia.com##.threadViewBelowMessages.samAlignCenterAuto.samBannerUnit
+thiendia.com##.samBannerUnit
 
 tiki.vn##.text-center.native-banner
 tiki.vn##[class*="EdgeBanner__"]
