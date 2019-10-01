@@ -187,6 +187,7 @@ vn.online.standardchartered.com###remodal-popup-main-div
 tinhte.vn##div[class^="jsx-"]:has([id^="bling-"]):matches-css(height:120px)
 tinhte.vn##div[class*=snd]>div:has(div[id*="bling-"])
 tinhte.vn##.TinhteMods_KmThreads
+tinhte.vn##.TinhteMods_AffiliateWidget
 
 truyentranhlh.com##.quang-cao
 truyentranhlh.com##.float-ck
