@@ -188,7 +188,11 @@ m.youtube.com##a[onclick^="return koya.onEvent(arguments[0]||window.event,'"]
 m.youtube.com##a[onclick^="return koya.onEvent(arguments[0]||window.event,'"] + div
 m.youtube.com##YTM-PROMOTED-VIDEO-RENDERER
 ||youtube.com/pagead/
-
+||youtube.com/_get_ads?
+||ads.youtube.com^
+||youtube.com/api/stats/ads
+@@||s.youtube.com^|
+youtube.com##ytm-promoted-video-renderer
 
 m.vnreview.vn##[id*="div-gpt-ad"]
 m.vnreview.vn##.accessTrade
