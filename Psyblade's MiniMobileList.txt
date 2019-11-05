@@ -11,7 +11,7 @@
 
 !-----------------------------------Ad Server Rules-----------------------------
 
-
+||*.advertnative.com/*
 ||188bongda.com/*
 ||360game.vn/*
 ||*.ad-score.com/*
