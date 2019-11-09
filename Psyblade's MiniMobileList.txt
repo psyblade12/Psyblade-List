@@ -280,7 +280,7 @@ vnexpress.net###admbackground
 vnexpress.net###ads_large_detail
 vnexpress.net##.vne_footer_ads
 vnexpress.net## .banner_ads
-vnexpress.net###[id*="box_splienquan"]
+vnexpress.net##[id*="box_splienquan"]
 
 vtv.vn##div[id*=adnzone]
 
