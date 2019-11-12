@@ -248,6 +248,8 @@ vtv.vn##.bg-dark.knswli-object-wrapper > .clearfix
 
 vn.answers.yahoo.com###ya-center-two-col
 
+vnexpress.net###box_splienquan
+
 vn-zoom.org##.accessTrade
 
 webtretho.com###content_video
