@@ -55,20 +55,20 @@ bilutv.org##[id*="ads_zone"]
 bilutv.org##.player_pause_ads
 bilutv.org###fanback
 
-blogtruyen.com##.al-c.BT-Ads > center
-blogtruyen.com##body > a[href="https://goo.gl/D6w4JP"] > div
-blogtruyen.com##body > a[href="https://goo.gl/upFYXe"] > div
-blogtruyen.com##.al-c.BT-Ads
-blogtruyen.com##.qc-inner
-blogtruyen.com###mota
-blogtruyen.com##div:nth-of-type(5)
-blogtruyen.com##.qc-css
-blogtruyen.com##.manga-detail >hr:nth-of-type(2)
-blogtruyen.com##.manga-detail > center:has(img)
-blogtruyen.com##body > a > div:matches-css(z-index:2147483647)
-blogtruyen.com##div.sidebar>[src^="//www.dailymotion.com/embed/"]
-blogtruyen.com##div.qc_TC_Chap_Middle
-blogtruyen.com##.btnChangeToMobile
+blogtruyen.vn##.al-c.BT-Ads > center
+blogtruyen.vn##body > a[href="https://goo.gl/D6w4JP"] > div
+blogtruyen.vn##body > a[href="https://goo.gl/upFYXe"] > div
+blogtruyen.vn##.al-c.BT-Ads
+blogtruyen.vn##.qc-inner
+blogtruyen.vn###mota
+blogtruyen.vn##div:nth-of-type(5)
+blogtruyen.vn##.qc-css
+blogtruyen.vn##.manga-detail >hr:nth-of-type(2)
+blogtruyen.vn##.manga-detail > center:has(img)
+blogtruyen.vn##body > a > div:matches-css(z-index:2147483647)
+blogtruyen.vn##div.sidebar>[src^="//www.dailymotion.com/embed/"]
+blogtruyen.vn##div.qc_TC_Chap_Middle
+blogtruyen.vn##.btnChangeToMobile
 
 bongda.com.vn##div[id^="ads_"]
 
