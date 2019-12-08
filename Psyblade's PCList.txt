@@ -69,7 +69,7 @@ blogtruyen.vn##body > a > div:matches-css(z-index:2147483647)
 blogtruyen.vn##div.sidebar>[src^="//www.dailymotion.com/embed/"]
 blogtruyen.vn##div.qc_TC_Chap_Middle
 blogtruyen.vn##.btnChangeToMobile
-||https://blogtruyen.com/scripts/banner-preload.js
+||https://blogtruyen.vn/scripts/banner-preload.js
 
 bongda.com.vn##div[id^="ads_"]
 
