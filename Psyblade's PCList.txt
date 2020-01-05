@@ -192,6 +192,7 @@ tinhte.vn##div[class^="jsx-"]:has([id^="bling-"]):matches-css(height:120px)
 tinhte.vn##div[class*=snd]>div:has(div[id*="bling-"])
 tinhte.vn##.TinhteMods_KmThreads
 tinhte.vn##.TinhteMods_AffiliateWidget
+tinhte.vn##div[class*="main"]:matches-css(justify-content: center):matches-css(min-height:120px)
 
 truyentranhlh.com##.quang-cao
 truyentranhlh.com##.float-ck
