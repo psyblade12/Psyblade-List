@@ -204,12 +204,12 @@ news.zing.vn##[id*="adv"]
 
 nhaccuatui.com###i_box_popup
 nhaccuatui.com##.bannerAdv > div:nth-of-type(1)
-m.nhaccuatui.com###divSmartAppBanner
-m.nhaccuatui.com##.bannerAdv
-m.nhaccuatui.com###btnPromoteApp
-m.nhaccuatui.com##.view_destop
-m.nhaccuatui.com###popup-download-app-nct
-m.nhaccuatui.com###tooltips3G
+nhaccuatui.com###divSmartAppBanner
+nhaccuatui.com##.bannerAdv
+nhaccuatui.com###btnPromoteApp
+nhaccuatui.com##.view_destop
+nhaccuatui.com###popup-download-app-nct
+nhaccuatui.com###tooltips3G
 
 onedrive.live.com##.od-mobileWebToAppUpsell
 
