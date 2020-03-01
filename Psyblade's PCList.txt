@@ -70,6 +70,7 @@ blogtruyen.vn##div.sidebar>[src^="//www.dailymotion.com/embed/"]
 blogtruyen.vn##div.qc_TC_Chap_Middle
 blogtruyen.vn##.btnChangeToMobile
 blogtruyen.vn##div:matches-css(z-index:2147483647):-abp-has(a[href*="https://11bet.net"])
+||*//blogtruyen.vn/scripts/banner-preload.js
 
 bongda.com.vn##div[id^="ads_"]
 
@@ -185,6 +186,8 @@ reddit.com##[id*="ad_"]
 
 speedtest.net##.container-leaderboard.a-container
 speedtest.net###_evh-button
+
+shopee.vn##.shopee-popup
 
 vn.online.standardchartered.com###remodal-popup-main-div
 
