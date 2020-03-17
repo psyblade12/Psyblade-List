@@ -131,6 +131,7 @@ hdvietnam.com##[class*="ads"]
 
 hentaivn.net###page_ads_right
 hentaivn.net##.qc_main
+hentaivn.net###over
 ||https://hentaivn.net/js/abp.js
 
 hinative.com##.sidebar
@@ -207,12 +208,12 @@ thanhnien.vn##.tn-logo
 
 the-qrcode-generator.com###visual_qr
 
-thiendia.com##.my_responsive_ads
-thiendia.com##[href*="http://server8.upload69.net/images/2018/05/17/Quang-Cao-Thiendia"]
-thiendia.com##div.section:nth-of-type(2) > .secondaryContent
-thiendia.com##.samThreadPostContainerAfter.samAlignCenterAuto.samBannerUnit
-thiendia.com##.threadViewBelowMessages.samAlignCenterAuto.samBannerUnit
-thiendia.com##.samBannerUnit
+thiendia.me##.my_responsive_ads
+thiendia.me##[href*="http://server8.upload69.net/images/2018/05/17/Quang-Cao-Thiendia"]
+thiendia.me##div.section:nth-of-type(2) > .secondaryContent
+thiendia.me##.samThreadPostContainerAfter.samAlignCenterAuto.samBannerUnit
+thiendia.me##.threadViewBelowMessages.samAlignCenterAuto.samBannerUnit
+thiendia.me##.samBannerUnit
 
 tiki.vn##.text-center.native-banner
 tiki.vn##[class*="EdgeBanner__"]
