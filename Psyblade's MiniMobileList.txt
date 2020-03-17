@@ -251,9 +251,9 @@ thiendia.com## .my_responsive_ads
 
 tinhte.vn##.adWidget-gpt
 tinhte.vn##.TinhteMods_AffiliateWidget
+tinhte.vn##div[class*="main"]:matches-css(justify-content: center):matches-css(min-height:120px)
 
 tlk.io###sponsor
-
 tiki.vn##.top-banner-link
 tiki.vn##.hightlight-bar
 
