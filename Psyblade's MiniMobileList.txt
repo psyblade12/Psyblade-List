@@ -295,7 +295,7 @@ forums.voz.vn##td > div > div > div > div:has(#div-gpt-ad-reply)
 forums.voz.vn##div[style="text-align: center; padding-bottom: 10px; margin: 0px auto; width: 728px; height: 90px;"]
 forums.voz.vn##div[style="text-align: center; padding-bottom: 10px; margin: 0 auto; width:728px; height:90px;"]
 forums.voz.vn###btn-migrate-to-voz
-||api.voz.vn/*
+next.voz.vn##.adsbygoogle
 
 forum.xda-developers.com##.purchad
 xda-developers.com##.sponsor-banner
