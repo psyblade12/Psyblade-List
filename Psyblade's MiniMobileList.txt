@@ -289,12 +289,11 @@ vnexpress.net##[id*="box_splienquan"]
 
 vtv.vn##div[id*=adnzone]
 
-forums.voz.vn##.middleads
-forums.voz.vn##[id*="div-gpt-ad"]
-forums.voz.vn##td > div > div > div > div:has(#div-gpt-ad-reply)
-forums.voz.vn##div[style="text-align: center; padding-bottom: 10px; margin: 0px auto; width: 728px; height: 90px;"]
-forums.voz.vn##div[style="text-align: center; padding-bottom: 10px; margin: 0 auto; width:728px; height:90px;"]
-forums.voz.vn###btn-migrate-to-voz
+next.voz.vn##.middleads
+next.voz.vn##[id*="div-gpt-ad"]
+next.voz.vn##td > div > div > div > div:has(#div-gpt-ad-reply)
+next.voz.vn##div[style="text-align: center; padding-bottom: 10px; margin: 0px auto; width: 728px; height: 90px;"]
+next.voz.vn##div[style="text-align: center; padding-bottom: 10px; margin: 0 auto; width:728px; height:90px;"]
 next.voz.vn##.adsbygoogle
 
 forum.xda-developers.com##.purchad
