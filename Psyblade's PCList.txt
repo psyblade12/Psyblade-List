@@ -149,8 +149,6 @@ livescore.com##.hidden-xs.bb:nth-of-type(4)
 livescore.com##.hidden-xs.top-add
 livescore.com##div.pt4
 
-mazii.net##.affilate-screen
-
 zingmp3.vn###zmp3_Top
 
 en.miui.com##[id*="favatar"] >  .md_ctrl
