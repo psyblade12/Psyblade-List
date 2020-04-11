@@ -127,6 +127,8 @@ m.zingmp3.vn##.btn-off-ads
 m.zingmp3.vn##.float-btn-app
 
 google.com##.ads-fr
+google.com##.commercial-unit-mobile-top
+google.com##.commercial-unit-mobile-bottom
 
 m.youtube.com##a[onclick*="\"ping_url\":\"http://www.google.com/aclk?"]
 m.youtube.com##a[onclick^="return koya.onEvent(arguments[0]||window.event,'"]
