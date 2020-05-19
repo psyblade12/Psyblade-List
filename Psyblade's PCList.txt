@@ -248,7 +248,7 @@ vov.vn##.clearfix.ads
 
 ||api.voz.vn/*
 forums.voz.vn###btn-migrate-to-voz
-next.voz.vn##.sponsors
+voz.vn##.sponsors
 
 vtv.vn##.bg-dark.knswli-object-wrapper > .clearfix
 
