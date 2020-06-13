@@ -245,6 +245,7 @@ vov.vn###rightsidebar_top
 vov.vn###rightstickyads
 vov.vn###QCctl00_AdsContentAllPage1
 vov.vn##.clearfix.ads
+voz.vn##.sponsors
 
 ||api.voz.vn/*
 forums.voz.vn###btn-migrate-to-voz
