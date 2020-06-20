@@ -215,6 +215,9 @@ thienvadia.com##.samBannerUnit
 
 tiki.vn##.text-center.native-banner
 tiki.vn##[class*="EdgeBanner__"]
+tiki.vn##div[class^="GroupProducts__Wrapper"]:has(.deal):has(.icon-hot-deal-icon)
+tiki.vn##div[class^="Banner"]:has(.top-bar-wrap)
+tiki.vn##div[class^="NativeBanner"]:has(.info:has-text(Tài trợ))
 
 tructiephd.com##.hidden-sm.col-md-9
 tructiephd.com###sl2
