@@ -234,8 +234,6 @@ vnexpress.net##[id*="box_splienquan"]
 
 vtv.vn##div[id*=adnzone]
 
-voz.vn##.middleads
-voz.vn##.adsbygoogle
 voz.vn##.sponsors
 
 forum.xda-developers.com##.purchad
