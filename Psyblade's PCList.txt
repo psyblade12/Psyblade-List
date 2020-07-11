@@ -251,6 +251,9 @@ vov.vn###QCctl00_AdsContentAllPage1
 vov.vn##.clearfix.ads
 
 voz.vn##.sponsors
+voz.vn##[id*="google_ads_iframe"]
+voz.vn##.adsbygoogle
+voz.vn##.p-body-sidebar__container
 
 ||api.voz.vn/*
 forums.voz.vn###btn-migrate-to-voz
