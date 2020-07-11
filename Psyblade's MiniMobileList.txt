@@ -234,6 +234,12 @@ vnexpress.net##[id*="box_splienquan"]
 
 vtv.vn##div[id*=adnzone]
 
+voz.vn##.middleads
+voz.vn##[id*="div-gpt-ad"]
+voz.vn##td > div > div > div > div:has(#div-gpt-ad-reply)
+voz.vn##div[style="text-align: center; padding-bottom: 10px; margin: 0px auto; width: 728px; height: 90px;"]
+voz.vn##div[style="text-align: center; padding-bottom: 10px; margin: 0 auto; width:728px; height:90px;"]
+voz.vn##.adsbygoogle
 voz.vn##.sponsors
 
 forum.xda-developers.com##.purchad
