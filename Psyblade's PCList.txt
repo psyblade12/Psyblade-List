@@ -254,9 +254,6 @@ voz.vn##.sponsors
 voz.vn##[id*="google_ads_iframe"]
 voz.vn##.adsbygoogle
 voz.vn##.p-body-sidebar
-
-||api.voz.vn/*
-forums.voz.vn###btn-migrate-to-voz
 voz.vn##.sponsors
 
 vtv.vn##.bg-dark.knswli-object-wrapper > .clearfix
