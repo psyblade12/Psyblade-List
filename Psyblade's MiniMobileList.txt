@@ -141,6 +141,8 @@ m.youtube.com##YTM-PROMOTED-VIDEO-RENDERER
 @@||s.youtube.com^|
 youtube.com##ytm-promoted-video-renderer
 ||youtube.com/get_midroll_
+m.youtube.com##.companion-ad-container
+
 
 m.vnreview.vn##[id*="div-gpt-ad"]
 m.vnreview.vn##.accessTrade
