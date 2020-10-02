@@ -256,6 +256,7 @@ voz.vn##[id*="google_ads_iframe"]
 voz.vn##.adsbygoogle
 voz.vn##.p-body-sidebar
 voz.vn##.sponsors
+voz.vn##.p-body-contentCol
 
 vtv.vn##.bg-dark.knswli-object-wrapper > .clearfix
 
