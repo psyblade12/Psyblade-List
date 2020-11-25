@@ -108,6 +108,8 @@ facebook.com#?#[id^=hyperfeed_story_id_]:-abp-has(a[href*="client_token"])
 facebook.com#?#[id^=hyperfeed_story_id_]:-abp-has(a[href*="utm_campaign"])
 facebook.com#?##substream_1:-abp-has([id^="feed_subtitle_"]:-abp-contains(Sp))
 facebook.com###pagelet_canvas_nav_content:has(span:has-text(Gaming Video))
+facebook.com##div[data-pagelet^="FeedUnit_"]:has(a[aria-label="Sponsored"])
+facebook.com##div[data-pagelet*="FeedUnit"]:has-text(Suggested for You)
 
 foody.vn##[id*="banner"]
 foody.vn##.banner-header-top.foody-banner.foody-wapper
@@ -256,6 +258,7 @@ voz.vn##[id*="google_ads_iframe"]
 voz.vn##.adsbygoogle
 voz.vn##.p-body-sidebar
 voz.vn##.sponsors
+||voz.vn/data/backgrounds/*$image
 
 vtv.vn##.bg-dark.knswli-object-wrapper > .clearfix
 
@@ -269,4 +272,5 @@ webtretho.com###content_video
 
 youtube.com###player-ads
 youtube.com##.extra-padding.adDisplay
+youtube.com##.ytp-ad-module, .video-ads
 !-------------------------------------------------------------------------------
