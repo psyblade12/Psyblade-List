@@ -235,6 +235,7 @@ truyentranh8.net##.tt8quangcao.hideTablet.float-ck2
 
 tuoitre.vn##.clearfix.bar-new
 tuoitre.vn##[src*="https://quangcao.tuoitre.vn/"]
+tuoitre.vn##.banner-top
 
 truyen1.net##.float-ck
 truyen1.net##.social-box
