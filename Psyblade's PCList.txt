@@ -110,6 +110,7 @@ facebook.com#?##substream_1:-abp-has([id^="feed_subtitle_"]:-abp-contains(Sp))
 facebook.com###pagelet_canvas_nav_content:has(span:has-text(Gaming Video))
 facebook.com##div[data-pagelet^="FeedUnit_"]:has(a[aria-label="Sponsored"])
 facebook.com##div[data-pagelet*="FeedUnit"]:has-text(Suggested for You)
+facebook.com##div[role="feed"] > div[data-pagelet^="FeedUnit"] div > span > span > a > span:upward(div[data-pagelet^="FeedUnit"])
 
 foody.vn##[id*="banner"]
 foody.vn##.banner-header-top.foody-banner.foody-wapper
