@@ -39,12 +39,15 @@
 ||*.ad.org.vn/*
 ||*.adasiaholdings.com/*
 ||*.adbro.me/*
+/(https?:\/\/)\w{30,}.me\/\w{30,}\./$script,third-party
 !-------------------------------------------------------------------------------
 
 !-------------------------------Website Content Rules---------------------------
 
 ##.adsbygoogle
 ##.WikiaTopAdsInner
+.me/ads-
+.me/ads/
 
 m.9gag.com##.salt-container
 m.9gag.com##.primary.blue.fill.full-bleed.block.btn
