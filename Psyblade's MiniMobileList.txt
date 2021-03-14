@@ -86,6 +86,7 @@ hinative.com##.banner_premium_content
 lazada.vn###stack-mobile-container
 lazada.vn##.smart-banner-1-8__inner
 lazada.vn###J_Banner
+m.lazada.vn###smb-container
 
 lhscans.com##.float-ck
 lhscans.com##.quang-cao
