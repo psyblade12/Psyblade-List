@@ -72,6 +72,7 @@ blogtruyen.vn##div.qc_TC_Chap_Middle
 blogtruyen.vn##.btnChangeToMobile
 blogtruyen.vn##div:matches-css(z-index:2147483647):-abp-has(a[href*="https://11bet.net"])
 ||*//blogtruyen.vn/scripts/banner-preload.js
+blogtruyen.vn###sticky
 
 bongda.com.vn##div[id^="ads_"]
 
