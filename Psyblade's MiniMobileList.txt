@@ -112,6 +112,8 @@ forum.blogtruyen.vn##.qc-css
 m.blogtruyen.vn##[class*="qc_M_"]
 m.blogtruyen.vn##[id*="qc_M_"]
 m.blogtruyen.vn##.manga-detail > center
+m.blogtruyen.vn###popup_banner_beta
+m.blogtruyen.vn##center:has(a[target*="_blank"]:has(img))
 
 m.facebook.com###m_newsfeed_stream article[data-ft*="\"ei\":\""]
 m.facebook.com##.aymlCoverFlow
