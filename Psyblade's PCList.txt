@@ -26,6 +26,7 @@
 ||*.sbro.me/*
 ||*.adsplay.net/*
 ||*.quantumdex.io/*
+||qccoccocmedia.vn
 !-------------------------------------------------------------------------------
 
 ! -----------Website content rules------------:
@@ -200,6 +201,7 @@ tinhte.vn##.TinhteMods_AffiliateWidget
 tinhte.vn##div[class*="main"]:matches-css(justify-content: center):matches-css(min-height:120px)
 tinhte.vn##.middle-comment-promotion
 tinhte.vn##.header-promo-img
+tinhte.vn##[id*="ccadnet_"]
 
 truyentranhlh.com##.quang-cao
 truyentranhlh.com##.float-ck
