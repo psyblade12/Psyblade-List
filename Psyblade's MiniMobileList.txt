@@ -184,6 +184,8 @@ quora.com##.OpenInAppBanner
 quora.com## .AdBundle.Bundle
 quora.com###__w2_JS00Kry_zapdos_wall_wrapper
 
+plantsvszombies.fandom.com##.article-featured-video__player
+
 reddit.com##.size-compact.Post:has([class*=promoted])
 reddit.com##.size-default.Post:has([class*=promoted])
 reddit.com##.DualPartInterstitial:has(.appButton)
