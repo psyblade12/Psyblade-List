@@ -90,6 +90,8 @@ danviet.vn##[id*="ADS_"]
 dictionary.goo.ne.jp##.adsbygoogle
 dictionary.goo.ne.jp###gooad-long
 
+dantri.com.vn##.top-banner
+
 developers.whatismybrowser.com##.funholderleaderboard728
 
 ejje.weblio.jp###side > .sideBlock:has(.sideAdBunner)
