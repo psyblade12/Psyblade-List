@@ -209,6 +209,8 @@ tinhte.vn##.adWidget-gpt
 tinhte.vn##.TinhteMods_AffiliateWidget
 tinhte.vn##div[class*="main"]:matches-css(justify-content: center):matches-css(min-height:120px)
 tinhte.vn##.ads
+tinhte.vn##.in-article-promo
+tinhte.vn##.header-promo-img
 
 tlk.io###sponsor
 tiki.vn##.top-banner-link
