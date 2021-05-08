@@ -205,15 +205,10 @@ thethaovanhoa.vn##[id*="ad_inpage_containereac"]
 thienvadia.net##[id*="divAd"]
 thienvadia.net## .my_responsive_ads
 
-tinhte.vn##div[class^="jsx-"]:has([id^="bling-"]):matches-css(height:120px)
-tinhte.vn##div[class*=snd]>div:has(div[id*="bling-"])
-tinhte.vn##div[class*="main"]:matches-css(justify-content: center):matches-css(min-height:120px)
 tinhte.vn##.middle-comment-promotion
 tinhte.vn##.header-promo-img
 tinhte.vn##.in-article-promo
-tinhte.vn##div[class*="threadpage"]>div[class*="bg-white"]>div[class*="micro"]:has(zone)
-tinhte.vn##div[class*="thread-view"]>div[class*="main"]:has(div[style][id^="bling-"])
-tinhte.vn##.bg-white:nth-of-type(1) > div[class^="micro"]
+tinhte.vn##.visible-xs.micro
 
 tlk.io###sponsor
 tiki.vn##.top-banner-link
@@ -228,7 +223,6 @@ truyentranhlh.com##.float-ck
 truyentranhlh.com##.quang-cao
 truyentranhlh.com##[id*="adtruefr-"]
 truyentranhlh.com###lg
-//Xóa 2 cái br dư ra sau cái quảng cáo. Có thể gây lỗi.
 truyentranhlh.com##.chapter-content >center:nth-of-type(2)+br
 truyentranhlh.com##.chapter-content >center:nth-of-type(2)+br+br
 truyentranhlh.net##.mobile_hidden
