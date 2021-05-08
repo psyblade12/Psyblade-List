@@ -200,18 +200,13 @@ vn.online.standardchartered.com###remodal-popup-main-div
 
 tinhte.vn##div[class^="jsx-"]:has([id^="bling-"]):matches-css(height:120px)
 tinhte.vn##div[class*=snd]>div:has(div[id*="bling-"])
-tinhte.vn##.TinhteMods_KmThreads
-tinhte.vn##.TinhteMods_AffiliateWidget
 tinhte.vn##div[class*="main"]:matches-css(justify-content: center):matches-css(min-height:120px)
 tinhte.vn##.middle-comment-promotion
 tinhte.vn##.header-promo-img
-tinhte.vn##[id*="ccadnet_"]
-tinhte.vn##div[class*="col-right additional-padding"]>div[class*="hidden-md"]>div[class*="micro"]:has(zone)
-tinhte.vn##div[class*="col-right additional-padding"]>div[class*="hidden-md"]>div[class*="desktopOnly"]:has(div[class^="micro"])
-tinhte.vn##div[class*="col-right additional-padding"]>div[class*="hidden-md"]>div:has(div[id^="bling-"])
 tinhte.vn##div[class*="threadpage"]>div[class*="bg-white"]>div[class*="micro"]:has(zone)
 tinhte.vn##div[class*="thread-view"]>div[class*="main"]:has(div[style][id^="bling-"])
 tinhte.vn##.in-article-promo
+tinhte.vn##.bg-white:nth-of-type(1) > div[class^="micro"]
 
 truyentranhlh.com##.quang-cao
 truyentranhlh.com##.float-ck
