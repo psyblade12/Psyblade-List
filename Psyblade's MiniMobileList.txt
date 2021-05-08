@@ -209,6 +209,7 @@ tinhte.vn##.middle-comment-promotion
 tinhte.vn##.header-promo-img
 tinhte.vn##.in-article-promo
 tinhte.vn##.visible-xs.micro
+tinhte.vn##.add
 
 tlk.io###sponsor
 tiki.vn##.top-banner-link
