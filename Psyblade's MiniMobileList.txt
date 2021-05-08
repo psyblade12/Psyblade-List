@@ -211,6 +211,7 @@ tinhte.vn##div[class*="main"]:matches-css(justify-content: center):matches-css(m
 tinhte.vn##.ads
 tinhte.vn##.in-article-promo
 tinhte.vn##.header-promo-img
+tinhte.vn##.visible-xs.micro
 
 tlk.io###sponsor
 tiki.vn##.top-banner-link
