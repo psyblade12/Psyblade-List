@@ -252,4 +252,8 @@ voz.vn##.adsbyadop
 forum.xda-developers.com##.purchad
 xda-developers.com##.sponsor-banner
 xda-developers.com##[id*="purch_"]
+
+m.youtube.com###player-ads
+m.youtube.com##.extra-padding.adDisplay
+m.youtube.com##.ytp-ad-module, .video-ads
 !-------------------------------------------------------------------------------
