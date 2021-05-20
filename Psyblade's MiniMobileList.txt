@@ -229,6 +229,7 @@ truyentranhlh.com###lg
 truyentranhlh.com##.chapter-content >center:nth-of-type(2)+br
 truyentranhlh.com##.chapter-content >center:nth-of-type(2)+br+br
 truyentranhlh.net##.mobile_hidden
+truyentranhlh.net##[src*="https://discord.com/"]
 
 ||ads-bidder-api.twitter.com^
 mobile.twitter.com#?#section[role="region"] > div > div[style^="padding-bottom"] > div[class] > div[class][-ext-has='div.rn-1uif7bo[dir="auto"]']
