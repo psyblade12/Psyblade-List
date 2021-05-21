@@ -115,6 +115,7 @@ m.blogtruyen.vn##[id*="qc_M_"]
 m.blogtruyen.vn##.manga-detail > center
 m.blogtruyen.vn###popup_banner_beta
 m.blogtruyen.vn##center:has(a[target*="_blank"]:has(img))
+||blogtruyen.vn/scripts/iframe-rand-mobile.js^$script
 
 m.facebook.com###m_newsfeed_stream article[data-ft*="\"ei\":\""]
 m.facebook.com##.aymlCoverFlow
@@ -149,7 +150,9 @@ m.youtube.com##YTM-PROMOTED-VIDEO-RENDERER
 youtube.com##ytm-promoted-video-renderer
 ||youtube.com/get_midroll_
 m.youtube.com##.companion-ad-container
-
+m.youtube.com###player-ads
+m.youtube.com##.extra-padding.adDisplay
+m.youtube.com##.ytp-ad-module, .video-ads
 
 m.vnreview.vn##[id*="div-gpt-ad"]
 m.vnreview.vn##.accessTrade
@@ -253,8 +256,4 @@ voz.vn##.adsbyadop
 forum.xda-developers.com##.purchad
 xda-developers.com##.sponsor-banner
 xda-developers.com##[id*="purch_"]
-
-m.youtube.com###player-ads
-m.youtube.com##.extra-padding.adDisplay
-m.youtube.com##.ytp-ad-module, .video-ads
 !-------------------------------------------------------------------------------
