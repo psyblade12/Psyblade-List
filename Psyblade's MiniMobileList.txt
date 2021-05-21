@@ -39,6 +39,8 @@
 ||*.ad.org.vn/*
 ||*.adasiaholdings.com/*
 ||*.adbro.me/*
+||999.money^
+||bantinbds.net^
 /(https?:\/\/)\w{30,}.me\/\w{30,}\./$script,third-party
 !-------------------------------------------------------------------------------
 
