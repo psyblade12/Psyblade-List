@@ -236,10 +236,6 @@ truyentranhlh.com##.chapter-content >center:nth-of-type(2)+br+br
 truyentranhlh.net##.mobile_hidden
 truyentranhlh.net##[src*="https://discord.com/"]
 
-||ads-bidder-api.twitter.com^
-mobile.twitter.com#?#section[role="region"] > div > div[style^="padding-bottom"] > div[class] > div[class][-ext-has='div.rn-1uif7bo[dir="auto"]']
-mobile.twitter.com#?#._29ahSMvH section.rn-1oszu61 div[class][style*="padding-"] > ._1_KafmK5[-ext-has='svg.YunaQoc2']
-
 urbandictionary.com##.da-panel
 urbandictionary.com##.mug-ad
 urbandictionary.com##.ad-panel
