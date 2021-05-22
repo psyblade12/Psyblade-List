@@ -64,6 +64,11 @@ bongda.com.vn##[id*="div-gpt-ad"]
 bongda.com.vn##[id*="ads_"]
 bongda.com.vn##.news_details.exp_content > div:matches-css(z-index: 2):matches-css(overflow: hidden)
 
+||blogtruyen.vn/scripts/iframe-rand-mobile.js^$script
+m.blogtruyen.vn##center:has(img)
+m.blogtruyen.vn###mbtfloat
+m.blogtruyen.vn###popup_banner_beta
+
 m.bulbapedia.bulbagarden.net##div:has([src^="https://ahost.bulbagarden.net/"]):has(.close-btn)
 m.bulbapedia.bulbagarden.net###mw-mf-page-center>div:has(img[src*="ahost.bulbagarden.net/"] )
 
@@ -127,6 +132,7 @@ m.zingmp3.vn##.float-btn-app
 google.com##.ads-fr
 google.com##.commercial-unit-mobile-top
 google.com##.commercial-unit-mobile-bottom
+google.com###tads
 
 m.youtube.com##a[onclick*="\"ping_url\":\"http://www.google.com/aclk?"]
 m.youtube.com##a[onclick^="return koya.onEvent(arguments[0]||window.event,'"]
