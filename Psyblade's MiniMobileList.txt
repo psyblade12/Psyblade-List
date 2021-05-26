@@ -111,6 +111,7 @@ m.baomoi.com##.footer__anchor-event
 m.baomoi.com###advMasthead
 
 m.dantri.com.vn##div:has(div[class*="adv-box"]):matches-css(min-height:200px)
+dantri.com.vn##[id^="xds-"]
 
 m.facebook.com###m_newsfeed_stream article[data-ft*="\"ei\":\""]
 m.facebook.com##.aymlCoverFlow
@@ -133,6 +134,9 @@ google.com##.ads-fr
 google.com##.commercial-unit-mobile-top
 google.com##.commercial-unit-mobile-bottom
 google.com###tads
+
+m.gamek.vn##.adv-box
+m.genk.vn##.adv-box
 
 m.youtube.com##a[onclick*="\"ping_url\":\"http://www.google.com/aclk?"]
 m.youtube.com##a[onclick^="return koya.onEvent(arguments[0]||window.event,'"]
