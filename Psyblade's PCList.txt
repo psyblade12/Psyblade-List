@@ -85,6 +85,10 @@ bulbapedia.bulbagarden.net###laptop-box
 crazygames.com###leftHalfPage
 crazygames.com###rightHalfPage
 
+cafef.vn##.bannertop
+cafef.vn##[id*="admzone"]
+cafef.vn##[class^="trdt__iframe"]
+
 danviet.vn##[id*="ADS_"]
 
 dictionary.goo.ne.jp##.adsbygoogle
