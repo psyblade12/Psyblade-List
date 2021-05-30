@@ -92,6 +92,8 @@ hinative.com###js-recommendation_of_app
 hinative.com##.float_app_recommend_button_group
 hinative.com##.banner_premium_content
 
+m.kenh14.vn##.adv-box
+
 lazada.vn###stack-mobile-container
 lazada.vn##.smart-banner-1-8__inner
 lazada.vn###J_Banner
