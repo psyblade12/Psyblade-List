@@ -108,18 +108,12 @@ ejje.weblio.jp##.mainBlock:has(.adGHL)
 ejje.weblio.jp###leadToVocabIndexBtnWrp
 ejje.weblio.jp###leadToSpeakingTestIndexBtnWrp
 
-facebook.com##.egoOrganicColumn.s_1o8820bhj3.pagelet.ego_column > ._1-ia > ._4-u8._20os._2tyk._1-ib._4-u2
-facebook.com##.egoOrganicColumn.ego_column.s_1o8820bhj3._5qrt.pagelet > .wrapper > .inner
+
 facebook.com##.home_right_column
 facebook.com###pagelet_ego_pane
 facebook.com##.rhcFooter
-facebook.com#?#[id^=hyperfeed_story_id_]:-abp-has(a[href*="client_token"])
-facebook.com#?#[id^=hyperfeed_story_id_]:-abp-has(a[href*="utm_campaign"])
-facebook.com#?##substream_1:-abp-has([id^="feed_subtitle_"]:-abp-contains(Sp))
 facebook.com###pagelet_canvas_nav_content:has(span:has-text(Gaming Video))
-facebook.com##div[data-pagelet^="FeedUnit_"]:has(a[aria-label="Sponsored"])
-facebook.com##div[data-pagelet*="FeedUnit"]:has-text(Suggested for You)
-facebook.com##div[role="feed"] > div[data-pagelet^="FeedUnit"] div > span > span > a > span:upward(div[data-pagelet^="FeedUnit"])
+
 
 foody.vn##[id*="banner"]
 foody.vn##.banner-header-top.foody-banner.foody-wapper
