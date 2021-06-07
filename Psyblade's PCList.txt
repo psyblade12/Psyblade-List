@@ -113,8 +113,6 @@ facebook.com##.home_right_column
 facebook.com###pagelet_ego_pane
 facebook.com##.rhcFooter
 facebook.com###pagelet_canvas_nav_content:has(span:has-text(Gaming Video))
-facebook.com##div[role=feed] div:first-child > div:only-child > div:only-child > div:only-child > div:only-child > span:only-child:has-text(/^Sponsored/):upward(div[role=feed] > div)
-
 
 foody.vn##[id*="banner"]
 foody.vn##.banner-header-top.foody-banner.foody-wapper
