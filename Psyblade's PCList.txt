@@ -166,6 +166,7 @@ news.zing.vn##.size_masthead.banner
 news.zing.vn###advHalfPage
 news.zing.vn###site-header
 news.zing.vn##[id*="advR"]
+zingnews.vn##[class*="adtima-"]
 
 nhaccuatui.com##[id*="Popup"]
 nhaccuatui.com##.nqc-zone
