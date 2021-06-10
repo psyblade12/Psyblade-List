@@ -138,6 +138,7 @@ google.com##.ads-fr
 google.com##.commercial-unit-mobile-top
 google.com##.commercial-unit-mobile-bottom
 google.com###tads
+google.com###tadsb:has(span:has-text(ad))
 
 m.gamek.vn##.adv-box
 m.genk.vn##.adv-box
