@@ -113,6 +113,8 @@ facebook.com##.home_right_column
 facebook.com###pagelet_ego_pane
 facebook.com##.rhcFooter
 facebook.com###pagelet_canvas_nav_content:has(span:has-text(Gaming Video))
+facebook.com##div[data-pagelet^="FeedUnit_"]:has(a[aria-label="Sponsored"])
+facebook.com##div[data-pagelet^="FeedUnit_"]:has([role="link"]:has(> span > span:matches-css(position: relative):has-text(S)))
 
 foody.vn##[id*="banner"]
 foody.vn##.banner-header-top.foody-banner.foody-wapper
@@ -180,6 +182,8 @@ oxfordlearnersdictionaries.com##[id*="ad_btmslot_"]
 oxfordlearnersdictionaries.com##[id*="ad_topslot_"]
 oxfordlearnersdictionaries.com##[id*="ad_houseslot"]
 oxfordlearnersdictionaries.com##[id*="ad_leftslot_"]
+
+outlook.live.com##a[href="https://windows.microsoft.com/outlook/ad-free-outlook"]:upward(4)
 
 quora.com##div.pagedlist_item + div:has(a[rel=noopener])
 quora.com##div[class="pagedlist_item"]:has(a:matches-css(background-image: url("https://qsf.fs.quoracdn.net/-3-images.ui.icons.external_link.svg-26-00368acb38107c3e.svg")))
