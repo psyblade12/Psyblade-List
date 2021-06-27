@@ -27,6 +27,8 @@
 ||*.adsplay.net/*
 ||*.quantumdex.io/*
 ||qccoccocmedia.vn
+||embed.dugout.com^$script,third-party
+
 !-------------------------------------------------------------------------------
 
 ! -----------Website content rules------------:
