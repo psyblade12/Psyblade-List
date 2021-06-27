@@ -192,6 +192,7 @@ quora.com##.qu-pt--medium:has(.qu-fontSize--tiny:has-text(/sponsored by|promoted
 quora.com##.qu-pb--medium:has(.qu-borderRadius--pill:has(svg))
 
 plantsvszombies.fandom.com##.article-featured-video__player
+||jwpsrv.com^$script,domain=~fandom.com
 
 reddit.com##.size-compact.Post:has([class*=promoted])
 reddit.com##.size-default.Post:has([class*=promoted])
