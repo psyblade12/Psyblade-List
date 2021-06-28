@@ -126,12 +126,13 @@ m.facebook.com##.storyStream > .fullwidth._539p
 m.facebook.com##.storyStream > article[id^="u_"]._676
 m.facebook.com##.storyStream > article[id^="u_"].storyAggregation
 
+fandom.com##.article-featured-video__player
+fandom.com##.ad-slot-placeholder
 ||jwplayer.com^$domain=fandom.com
 ||jwpcdn.com^$domain=fandom.com
 ||jwplatform.com^$domain=fandom.com
 ||jwpltx.com^$domain=fandom.com
 ||jwpsrv.com^$domain=fandom.com
-fandom.com##.article-featured-video__player
 
 m.gsmarena.com##.adv-mid
 m.gsmarena.com##[id*="div-gpt-ad"]
