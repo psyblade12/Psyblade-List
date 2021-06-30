@@ -127,7 +127,7 @@ m.facebook.com##.storyStream > article[id^="u_"]._676
 m.facebook.com##.storyStream > article[id^="u_"].storyAggregation
 
 fandom.com##.article-featured-video__player
-fandom.com##.ad-slot-placeholder
+fandom.com##[class*="ad-slot-placeholder"]
 ||jwplayer.com^$domain=fandom.com
 ||jwpcdn.com^$domain=fandom.com
 ||jwplatform.com^$domain=fandom.com
