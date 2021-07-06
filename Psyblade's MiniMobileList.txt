@@ -166,6 +166,7 @@ m.youtube.com##.companion-ad-container
 m.youtube.com###player-ads
 m.youtube.com##.extra-padding.adDisplay
 m.youtube.com##.ytp-ad-module, .video-ads
+m.youtube.com##.promoted-sparkles-text-search-root-container
 
 m.vnreview.vn##[id*="div-gpt-ad"]
 m.vnreview.vn##.accessTrade
