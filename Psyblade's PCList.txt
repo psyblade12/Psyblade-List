@@ -229,12 +229,12 @@ thanhnien.vn##.tn-logo
 
 the-qrcode-generator.com###visual_qr
 
-thienvadia.net##.my_responsive_ads
-thienvadia.net##[href*="http://server8.upload69.net/images/2018/05/17/Quang-Cao-Thiendia"]
-thienvadia.net##div.section:nth-of-type(2) > .secondaryContent
-thienvadia.net##.samThreadPostContainerAfter.samAlignCenterAuto.samBannerUnit
-thienvadia.net##.threadViewBelowMessages.samAlignCenterAuto.samBannerUnit
-thienvadia.net##.samBannerUnit
+thiendia88.net##.my_responsive_ads
+thiendia88.net##[href*="http://server8.upload69.net/images/2018/05/17/Quang-Cao-Thiendia"]
+thiendia88.net##div.section:nth-of-type(2) > .secondaryContent
+thiendia88.net##.samThreadPostContainerAfter.samAlignCenterAuto.samBannerUnit
+thiendia88.net##.threadViewBelowMessages.samAlignCenterAuto.samBannerUnit
+thiendia88.net##.samBannerUnit
 
 tiki.vn##.text-center.native-banner
 tiki.vn##[class*="EdgeBanner__"]
