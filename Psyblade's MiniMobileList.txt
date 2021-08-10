@@ -146,7 +146,7 @@ m.zingmp3.vn##.float-btn-app
 google.com##.ads-fr
 google.com##.commercial-unit-mobile-top
 google.com##.commercial-unit-mobile-bottom
-google.com###tads
+google.com###tadsb
 
 m.gamek.vn##.adv-box
 m.genk.vn##.adv-box
