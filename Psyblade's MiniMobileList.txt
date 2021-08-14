@@ -147,6 +147,7 @@ google.com##.ads-fr
 google.com##.commercial-unit-mobile-top
 google.com##.commercial-unit-mobile-bottom
 google.com###tadsb
+google.com###tads
 
 m.gamek.vn##.adv-box
 m.genk.vn##.adv-box
