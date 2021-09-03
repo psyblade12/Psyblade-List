@@ -69,6 +69,7 @@ m.blogtruyen.vn##center:has(img)
 m.blogtruyen.vn###mbtfloat
 m.blogtruyen.vn###popup_banner_beta
 m.blogtruyen.vn##.qc-inner-move
+m.blogtruyen.vn##[class*="qc_M_Chap_"]
 
 m.bulbapedia.bulbagarden.net##div:has([src^="https://ahost.bulbagarden.net/"]):has(.close-btn)
 m.bulbapedia.bulbagarden.net###mw-mf-page-center>div:has(img[src*="ahost.bulbagarden.net/"] )
