@@ -262,7 +262,8 @@ voz.vn##.adsbygoogle
 voz.vn##.sponsors
 voz.vn##.adsbyadop
 
-vnexpress.net###ads_large_detail
+vnexpress.net##[id*="ads"]
+vnexpress.net##[class*="ads"]
 
 forum.xda-developers.com##.purchad
 xda-developers.com##.sponsor-banner
