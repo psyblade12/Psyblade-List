@@ -151,6 +151,8 @@ hocvientruyentranh.com###float_right
 
 howtogeek.com##div[style^="margin-top:5px"]:has(script[src^="//pagead2.google"])
 
+kproxy.com###kproxy_float_navigation_container
+
 lhscans.com##.float-ck
 lhscans.com## .quang-cao
 
