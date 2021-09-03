@@ -173,7 +173,8 @@ m.youtube.com##.promoted-sparkles-text-search-root-container
 m.vnreview.vn##[id*="div-gpt-ad"]
 m.vnreview.vn##.accessTrade
 
-news.zing.vn##[id*="adv"]
+zingnews.vn##[id*="adv"]
+zingnews.vn###site-header:has(#advTop)
 
 nhaccuatui.com###i_box_popup
 nhaccuatui.com##.bannerAdv > div:nth-of-type(1)
@@ -260,6 +261,8 @@ voz.vn##div[style="text-align: center; padding-bottom: 10px; margin: 0 auto; wid
 voz.vn##.adsbygoogle
 voz.vn##.sponsors
 voz.vn##.adsbyadop
+
+vnexpress.net###ads_large_detail
 
 forum.xda-developers.com##.purchad
 xda-developers.com##.sponsor-banner
