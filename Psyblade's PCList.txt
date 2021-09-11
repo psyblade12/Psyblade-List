@@ -115,8 +115,7 @@ facebook.com##.home_right_column
 facebook.com###pagelet_ego_pane
 facebook.com##.rhcFooter
 facebook.com###pagelet_canvas_nav_content:has(span:has-text(Gaming Video))
-facebook.com##div[data-pagelet^="FeedUnit_"]:has(a[aria-label="Sponsored"])
-facebook.com##div[data-pagelet^="FeedUnit_"]:has([role="link"]:has(> span > span:matches-css(position: relative):has-text(S)))
+facebook.com##[role="feed"] span[id] a[href="#"]>span>span, [role="feed"] span[id] a[href="#"]>span>b:not(:has-text(/(\s|\d|^$)/)):upward([role="feed"]>div)
 
 foody.vn##[id*="banner"]
 foody.vn##.banner-header-top.foody-banner.foody-wapper
