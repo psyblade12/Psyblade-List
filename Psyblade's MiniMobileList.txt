@@ -76,6 +76,8 @@ m.bulbapedia.bulbagarden.net###mw-mf-page-center>div:has(img[src*="ahost.bulbaga
 
 m.cafef.vn##.adv-box
 
+cliptv.vn##.install-apps
+
 dict.naver.com##.downapp_area
 
 dictionary.goo.ne.jp##[id*="div-gpt-ad"]
