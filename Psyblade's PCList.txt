@@ -244,6 +244,7 @@ tiki.vn##[class*="EdgeBanner__"]
 tiki.vn##div[class^="GroupProducts__Wrapper"]:has(.deal):has(.icon-hot-deal-icon)
 tiki.vn##div[class^="Banner"]:has(.top-bar-wrap)
 tiki.vn##div[class^="NativeBanner"]:has(.info:has-text(Tài trợ))
+tiki.vn##[class*=ProductList__Wrapper] >div:has(div[class=name]:has(p:has-text(Ad):matches-css(font-size: 9px)))
 
 tructiephd.com##.hidden-sm.col-md-9
 tructiephd.com###sl2
