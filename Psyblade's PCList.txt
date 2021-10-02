@@ -209,6 +209,8 @@ readcomiconline.to###fl-ads
 
 reddit.com##[id*="ad_"]
 
+retail.sc.com###remodal-popup-main-div
+
 speedtest.net##.container-leaderboard.a-container
 speedtest.net###_evh-button
 
