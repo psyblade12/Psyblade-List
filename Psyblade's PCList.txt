@@ -126,6 +126,10 @@ facebook.com###pagelet_ego_pane
 facebook.com##.rhcFooter
 facebook.com###pagelet_canvas_nav_content:has(span:has-text(Gaming Video))
 facebook.com##[role="feed"] span[id] a[href="#"]>span>span, [role="feed"] span[id] a[href="#"]>span>b:not(:has-text(/(\s|\d|^$)/)):upward([role="feed"]>div)
+--Current FB filter
+facebook.com##[role="feed"] span[id] a[href="#"]:not(:has-text(/(\s|\d|^$)/)):upward([role="feed"]>div):style(border: 8px dotted yellow !important)
+facebook.com##[role="feed"] span[id] a[href="#"] :matches-css(display: none):remove()
+facebook.com##[role="feed"] span[id] a[href="#"] :matches-css(position: absolute):remove()
 
 foody.vn##[id*="banner"]
 foody.vn##.banner-header-top.foody-banner.foody-wapper
@@ -280,6 +284,8 @@ tv.zing.vn##.non-linear-ad
 uptruyen.com###qc-7
 
 vietnamnet.vn##.Ads-Top
+
+vlxx.sex##.fads
 
 vnreview.vn###column-11
 
