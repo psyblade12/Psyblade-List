@@ -264,6 +264,7 @@ voz.vn##div[style="text-align: center; padding-bottom: 10px; margin: 0 auto; wid
 voz.vn##.adsbygoogle
 voz.vn##.sponsors
 voz.vn##.adsbyadop
+voz.vn##.v-element:has([class^="vm-placement"])
 
 vnexpress.net###ads_large_detail
 vnexpress.net##.inner_ads
