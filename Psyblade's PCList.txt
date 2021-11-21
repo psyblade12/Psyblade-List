@@ -179,6 +179,8 @@ zingmp3.vn###zmp3_Top
 
 en.miui.com##[id*="favatar"] >  .md_ctrl
 
+nettruyenpro.com##div[class*="mrb5"]:has(a[rel^="nofollow"]:has(img))
+
 ||znews-static.zadn.vn/banner/ads/*$image
 news.zing.vn###highlight
 news.zing.vn###advArticleBottom
