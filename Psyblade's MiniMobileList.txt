@@ -181,6 +181,8 @@ m.vnreview.vn##.accessTrade
 zingnews.vn##[id*="adv"]
 zingnews.vn###site-header:has(#advTop)
 
+nettruyenpro.com##div[class*="mrb5"]:has(a[rel^="nofollow"]:has(img))
+
 nhaccuatui.com###i_box_popup
 nhaccuatui.com##.bannerAdv > div:nth-of-type(1)
 nhaccuatui.com###divSmartAppBanner
