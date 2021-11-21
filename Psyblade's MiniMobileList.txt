@@ -130,6 +130,7 @@ m.facebook.com##.storyStream > ._6t2[data-sigil="marea"]
 m.facebook.com##.storyStream > .fullwidth._539p
 m.facebook.com##.storyStream > article[id^="u_"]._676
 m.facebook.com##.storyStream > article[id^="u_"].storyAggregation
+m.facebook.com###_kb_gotomessenger
 
 fandom.com##.article-featured-video__player
 fandom.com##[class*="ad-slot-placeholder"]
