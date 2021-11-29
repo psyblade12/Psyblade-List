@@ -157,6 +157,7 @@ google.com,google.com.vn###tads
 
 m.gamek.vn##.adv-box
 m.genk.vn##.adv-box
+m.genk.vn##[id^="adm-slot-"]
 
 m.youtube.com##a[onclick*="\"ping_url\":\"http://www.google.com/aclk?"]
 m.youtube.com##a[onclick^="return koya.onEvent(arguments[0]||window.event,'"]
