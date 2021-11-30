@@ -69,7 +69,7 @@ bongda.com.vn##.news_details.exp_content > div:matches-css(z-index: 2):matches-c
 m.blogtruyen.vn##center:has(img)
 m.blogtruyen.vn###mbtfloat
 m.blogtruyen.vn###popup_banner_beta
-m.blogtruyen.vn##.qc-inner-move
+m.blogtruyen.vn##[class*="qc-inner-"]
 m.blogtruyen.vn##[class*="qc_M_Chap_"]
 m.blogtruyen.vn##[src="https://blogtruyen.vn/donate.png"]
 
