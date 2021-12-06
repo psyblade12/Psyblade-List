@@ -202,6 +202,7 @@ oxfordlearnersdictionaries.com##[id*="ad_btmslot_"]
 oxfordlearnersdictionaries.com##[id*="ad_topslot_"]
 oxfordlearnersdictionaries.com##[id*="ad_houseslot"]
 oxfordlearnersdictionaries.com##[id*="ad_leftslot_"]
+oxfordlearnersdictionaries.com###topslot_container
 
 outlook.live.com##a[href="https://windows.microsoft.com/outlook/ad-free-outlook"]:upward(4)
 
