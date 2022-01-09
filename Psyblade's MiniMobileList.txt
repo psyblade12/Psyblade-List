@@ -105,6 +105,8 @@ lazada.vn##.smart-banner-1-8__inner
 lazada.vn###J_Banner
 m.lazada.vn###smb-container
 
+lichvannien365.com###lvn-page > .container:has(ins[class="adsbygoogle"])
+
 lhscans.com##.float-ck
 lhscans.com##.quang-cao
 
