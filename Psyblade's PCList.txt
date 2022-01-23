@@ -305,6 +305,7 @@ voz.vn##.p-body-sidebar
 voz.vn##.sponsors
 ||voz.vn/data/backgrounds/*$image
 voz.vn##.v-element:has([class^="vm-placement"])
+voz.vn##.adsbypubpower
 
 vtv.vn##.bg-dark.knswli-object-wrapper > .clearfix
 
