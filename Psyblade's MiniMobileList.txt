@@ -82,6 +82,7 @@ m.cafef.vn##.adv-box
 cliptv.vn##.install-apps
 
 dict.naver.com##.downapp_area
+dict.naver.com##dictbanner
 
 dictionary.goo.ne.jp##[id*="div-gpt-ad"]
 dictionary.goo.ne.jp##div:has([id^="yads_"])
