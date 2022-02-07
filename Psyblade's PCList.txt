@@ -289,6 +289,8 @@ uptruyen.com###qc-7
 vietnamnet.vn##.Ads-Top
 
 vlxx.sex##.fads
+||vlxx.sex/ads/*
+||vlcontent.com/ads/
 
 vnreview.vn###column-11
 
