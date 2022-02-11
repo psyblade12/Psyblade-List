@@ -275,6 +275,7 @@ voz.vn##.sponsors
 voz.vn##.adsbyadop
 voz.vn##.vm-placement
 voz.vn##.adsbypubpower
+voz.vn##.v-element:has([class^="vm-placement"])
 
 vnexpress.net###ads_large_detail
 vnexpress.net##.inner_ads
