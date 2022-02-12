@@ -265,10 +265,10 @@ urbandictionary.com##.ad-panel
 
 vtv.vn##div[id*=adnzone]
 
+voz.vn##div.v-top.v-bottom.v-spacer.v-rounded.v-element > .v-m.v-responsive > .vm-placement
+voz.vn##.v-top-negative.v-bottom.v-spacer.v-rounded.v-element > .v-m.v-responsive > .vm-placement
+voz.vn##.v-sticky-top.v-rounded.v-element.block > .vm-placement
 voz.vn##.adsbypubpower
-voz.vn##.sponsors
-voz.vn##div.v-top.v-bottom.v-spacer.v-rounded.v-element > .v-xl.v-responsive > .vm-placement
-voz.vn##.v-top-negative.v-bottom.v-spacer.v-rounded.v-element > .v-xl.v-responsive > .vm-placement
 
 vnexpress.net###ads_large_detail
 vnexpress.net##.inner_ads
