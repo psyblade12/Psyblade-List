@@ -265,7 +265,8 @@ urbandictionary.com##.ad-panel
 
 vtv.vn##div[id*=adnzone]
 
-
+voz.vn##.vm-placement
+voz.vn##.adsbypubpower
 
 vnexpress.net###ads_large_detail
 vnexpress.net##.inner_ads
