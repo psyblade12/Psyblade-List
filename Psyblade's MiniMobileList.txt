@@ -232,7 +232,7 @@ thethaovanhoa.vn##[id*="adtruefr-"]
 thethaovanhoa.vn##[id*="ad_inpage_containereac"]
 
 thienvadia.net##[id*="divAd"]
-thienvadia.net## .my_responsive_ads
+thienvadia.net##.my_responsive_ads
 
 tinhte.vn##.middle-comment-promotion
 tinhte.vn##.header-promo-img
