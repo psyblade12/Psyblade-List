@@ -86,6 +86,7 @@ blogtruyen.vn##div:matches-css(z-index:2147483647):-abp-has(a[href*="https://11b
 ||*//blogtruyen.vn/scripts/banner-preload.js
 blogtruyen.vn###sticky
 blogtruyen.vn##[src="https://blogtruyen.vn/donate.png"]
+blogtruyen.vn##.al-c.BT-Ads
 
 bongda.com.vn##div[id^="ads_"]
 bongda.com.vn##.dugout-float
