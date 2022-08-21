@@ -267,6 +267,7 @@ vtv.vn##div[id*=adnzone]
 
 voz.vn##.vm-placement
 voz.vn##.adsbypubpower
+voz.vn##.message:has(div[class*="div-pw"])
 
 vnexpress.net###ads_large_detail
 vnexpress.net##.inner_ads
