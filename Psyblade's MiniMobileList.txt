@@ -41,6 +41,7 @@
 ||*.adbro.me/*
 ||999.money^
 ||bantinbds.net^
+||*.truyen-hay.com/*
 /(https?:\/\/)\w{30,}.me\/\w{30,}\./$script,third-party
 ||embed.dugout.com^$script,third-party
 !-------------------------------------------------------------------------------
@@ -73,6 +74,8 @@ m.blogtruyen.vn##[class*="qc-inner"]
 m.blogtruyen.vn##[class*="qc_M_Chap_"]
 m.blogtruyen.vn##[src="https://blogtruyen.vn/donate.png"]
 m.blogtruyen.vn###mfloat:has(input)
+m.blogtruyen.vn##div:has(span[class^="glyphicon"])
+m.blogtruyen.vn##div[class="content"]>a:has(img)
 
 m.bulbapedia.bulbagarden.net##div:has([src^="https://ahost.bulbagarden.net/"]):has(.close-btn)
 m.bulbapedia.bulbagarden.net###mw-mf-page-center>div:has(img[src*="ahost.bulbagarden.net/"] )
