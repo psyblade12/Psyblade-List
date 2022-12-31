@@ -87,6 +87,9 @@ blogtruyen.vn##div:matches-css(z-index:2147483647):-abp-has(a[href*="https://11b
 blogtruyen.vn###sticky
 blogtruyen.vn##[src="https://blogtruyen.vn/donate.png"]
 blogtruyen.vn##.al-c.BT-Ads
+blogtruyen.vn##div:matches-css(z-index: 2147483647):has(iframe)
+blogtruyen.vn##div:matches-css(z-index: 2147483647):matches-css(background-color: rgba(0, 0, 0, 0.7))
+blogtruyen.vn##img[marginheight="0"][marginwidth="0"]
 
 bongda.com.vn##div[id^="ads_"]
 bongda.com.vn##.dugout-float
@@ -277,6 +280,7 @@ truyentranh8.net##.tt8quangcao.hideTablet.float-ck2
 tuoitre.vn##.clearfix.bar-new
 tuoitre.vn##[src*="https://quangcao.tuoitre.vn/"]
 tuoitre.vn##.banner-top
+tuoitre.vn###LeaderBoardTop
 
 truyen1.net##.float-ck
 truyen1.net##.social-box
@@ -307,6 +311,7 @@ voz.vn##.sponsors
 ||voz.vn/data/backgrounds/*$image
 voz.vn##.v-element:has([class^="vm-placement"])
 voz.vn##.adsbypubpower
+voz.vn##.message:has(div[class*="div-pw"])
 
 vtv.vn##.bg-dark.knswli-object-wrapper > .clearfix
 
