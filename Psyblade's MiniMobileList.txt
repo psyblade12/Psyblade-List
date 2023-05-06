@@ -77,6 +77,7 @@ m.blogtruyen.vn###mfloat:has(input)
 m.blogtruyen.vn##div:has(span[class^="glyphicon"])
 m.blogtruyen.vn##div[class="content"]>a:has(img)
 m.blogtruyen.vn##div:matches-css(z-index:2147483647):matches-css(background-color:rgba(0, 0, 0, 0.7))
+m.blogtruyen.vn##div:matches-css(z-index: 2147483647):has(iframe)
 
 m.bulbapedia.bulbagarden.net##div:has([src^="https://ahost.bulbagarden.net/"]):has(.close-btn)
 m.bulbapedia.bulbagarden.net###mw-mf-page-center>div:has(img[src*="ahost.bulbagarden.net/"] )
