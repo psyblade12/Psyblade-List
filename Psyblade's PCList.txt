@@ -323,7 +323,4 @@ vn-zoom.org##.accessTrade
 
 webtretho.com###content_video
 
-youtube.com###player-ads
-youtube.com##.extra-padding.adDisplay
-youtube.com##.ytp-ad-module, .video-ads
 !-------------------------------------------------------------------------------
