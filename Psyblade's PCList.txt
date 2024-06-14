@@ -292,8 +292,10 @@ uptruyen.com###qc-7
 vietnamnet.vn##.Ads-Top
 
 vlxx.sex##.fads
+||*.vlstorage.com/*.mp4
 ||vlxx.sex/ads/*
 ||vlcontent.com/ads/
+vlxx.sex##.jw-reset.jw-logo-top-right.jw-logo
 
 vnreview.vn###column-11
 
@@ -312,12 +314,14 @@ voz.vn##.sponsors
 voz.vn##.v-element:has([class^="vm-placement"])
 voz.vn##.adsbypubpower
 voz.vn##.message:has(div[class*="div-pw"])
+voz.vn##div.message--post
 
 vtv.vn##.bg-dark.knswli-object-wrapper > .clearfix
 
 vn.answers.yahoo.com###ya-center-two-col
 
 vnexpress.net###box_splienquan
+vnexpress.net##.banner-top-home.banner-ads.section-ads-top
 
 vn-zoom.org##.accessTrade
 
