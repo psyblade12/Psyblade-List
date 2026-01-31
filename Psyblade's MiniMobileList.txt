@@ -82,7 +82,10 @@ m.blogtruyen.vn##div:matches-css(z-index: 2147483647):has(iframe)
 m.bulbapedia.bulbagarden.net##div:has([src^="https://ahost.bulbagarden.net/"]):has(.close-btn)
 m.bulbapedia.bulbagarden.net###mw-mf-page-center>div:has(img[src*="ahost.bulbagarden.net/"] )
 
+m.cafebiz.vn###adm-slot-484645 > .admcode
+
 m.cafef.vn##.adv-box
+m.cafef.vn###adm-slot-7249
 
 cliptv.vn##.install-apps
 
@@ -128,6 +131,8 @@ m.baomoi.com###wrapperTop:after
 m.baomoi.com##.anchor.download-app
 m.baomoi.com##.footer__anchor-event
 m.baomoi.com###advMasthead
+
+m.cafebiz.vn###adm-slot-484645 > .admcode
 
 m.dantri.com.vn##div:has(div[class*="adv-box"]):matches-css(min-height:200px)
 dantri.com.vn##[id^="xds-"]
@@ -230,6 +235,7 @@ reddit.com##article:has(.adLinkBar)
 vn.online.standardchartered.com###remodal-popup-main-div
 
 m.thanhnien.vn##.qc.banner
+thanhnien.vn##.asd-headt
 
 thethaovanhoa.vn###SC_TBlock_364194
 thethaovanhoa.vn###lava_banner_inpage
@@ -263,6 +269,8 @@ truyentranhlh.com##.chapter-content >center:nth-of-type(2)+br
 truyentranhlh.com##.chapter-content >center:nth-of-type(2)+br+br
 truyentranhlh.net##.mobile_hidden
 truyentranhlh.net##[src*="https://discord.com/"]
+
+tuoitre.vn##.leaderboardtop
 
 urbandictionary.com##.da-panel
 urbandictionary.com##.mug-ad
