@@ -42,7 +42,6 @@
 ||999.money^
 ||bantinbds.net^
 ||*.truyen-hay.com/*
-/(https?:\/\/)\w{30,}.me\/\w{30,}\./$script,third-party
 ||embed.dugout.com^$script,third-party
 !-------------------------------------------------------------------------------
 
