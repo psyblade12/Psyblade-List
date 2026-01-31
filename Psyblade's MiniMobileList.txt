@@ -132,8 +132,6 @@ m.baomoi.com##.anchor.download-app
 m.baomoi.com##.footer__anchor-event
 m.baomoi.com###advMasthead
 
-m.cafebiz.vn###adm-slot-484645 > .admcode
-
 m.dantri.com.vn##div:has(div[class*="adv-box"]):matches-css(min-height:200px)
 dantri.com.vn##[id^="xds-"]
 
